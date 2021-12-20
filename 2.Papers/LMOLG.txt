@@ -1,0 +1,12 @@
+
+
+# Let Me, or Let George?
+
+## Citation
+
+Bergstrom, Ted, Rod Garratt, and Greg Leo. “Let Me, or Let George? Motives of Competing Altruists.” Games and Economic Behavior 118, (2019): 269-283.
+
+
+## Paper
+
+[Let Me, or Let George? Motives of Competing Altruists](<https://scholar.google.com/scholar?oi=bibs&cluster=14335759686974261454&btnI=1&hl=en>)
