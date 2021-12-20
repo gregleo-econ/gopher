@@ -58,7 +58,7 @@ If you are interested in presenting to our group, reach out to me. We are open t
 
 ## 10/16/21 @academic
 
-I have added an updated working paper [Subgame Perfect Coalition Formation](https://gregcleo.com/2.%20Working%20Papers/SPGS.html) (joint with Eugene Vorobeychik and Myrna Wooders).
+I have added an updated working paper [Subgame Perfect Coalition Formation](https://gregcleo.com/2.Working_Papers/SPGS.html) (joint with Eugene Vorobeychik and Myrna Wooders).
 
 In this paper, we analyze a dynamic coalition formation game, the "seqeuential proposer game". A player proposes a coalition. The players in that coalition accpet or reject the proposal. As long as each player is able to make enough proposals, the equilibrium outcome is Pareto optimal.
 
@@ -68,7 +68,7 @@ I will be presenting "Minimal Experiments" (joint with PJ Healy) on 10/4/21 at T
 
 ## 8/20/21 @academic
 
-[Matching Soulmates](https://gregcleo.com/1.%20Papers/MatchingSoulmates.html) has been accepted in the Journal of Public Economic Theory. The latest version of the paper is available [here](https://gregcleo.com/files/Papers/PUB_Matching-Soulmates.pdf).
+[Matching Soulmates](https://gregcleo.com/1.Papers/Matching_Soulmates.html) has been accepted in the Journal of Public Economic Theory. The latest version of the paper is available [here](https://gregcleo.com/files/Papers/PUB_Matching-Soulmates.pdf).
 
 ![xkcd 770](https://imgs.xkcd.com/comics/all_the_girls.png)
 <center>[xkcd #770](https://xkcd.com/770/)</center>
