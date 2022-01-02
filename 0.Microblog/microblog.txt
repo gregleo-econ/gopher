@@ -2,6 +2,10 @@
 
 # Microblog
 
+## 12/02/21, 9:15 AM @webpage
+
+Happy new year!
+
 ## 12/10/21, 4:18 PM @webpage
 
 With another semester in the books (nearly), I want to thank all my students for great courses. This semester, I tried live-typing my lecture notes in both my undergraduate and PhD courses. I used Lyx (a frontend for latex) for typesetting. Lyx has the nice benefit of being able to hook into a background Mathematica instance to take derivatives, solve simple problems, and even do some more complex tasks on the fly right from the typeset expressions. It's an amazing system.
