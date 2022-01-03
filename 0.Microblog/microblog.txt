@@ -8,7 +8,7 @@ Happy new year!
 
 During winter break, I worked on a new project using my 3d printer. I attached a small keybaord to a Raspberry Pi 4 and 7.9" waveshare screen to create a tiny linux terminal. It is easy to cary around, energy efficeint, and powerful enough for working on papers, taking notes, and editing my webpage. 
 
-[Cyberdeck](../files/Images/cyberdeck.jpeg)
+![Cyberdeck](../files/Images/cyberdeck.jpeg)
 
 ## 12/10/21, 4:18 PM @webpage
 
