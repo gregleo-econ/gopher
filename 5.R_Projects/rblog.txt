@@ -2,6 +2,16 @@
 
 # R Blog
 
+## Flight of the Bumblebees 1/10/22 @tidytuesday
+
+[Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) is a weekly data science "challenge" for the R community. This week's dataset tracks bee colonies in the US over the past few years.  
+
+This week, I made an R Shiny web app that converts data on the number of colonies in each state into a song. My favorite state is listen to is Georgia (my home state). When played fast enough, these little songs sound vaguely like [Flight of the Bumblebee](https://www.youtube.com/watch?v=M93qXQWaBdE).
+
+[The app can be found here](https://g-econ.shinyapps.io/Flight_of_the_Bumblebees). 
+
+*At the moment it does not work on iphone, but has been tested on windows, linus, and andorid.*
+
 ## Code Golf Abundant Numbers 11/15/21 @codegolf
 
 The goal in *code golf* is to produce a program that solves a problem with as few characters as possible. Here is a code golf problem where R does pretty well.
