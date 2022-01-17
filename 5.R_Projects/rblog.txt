@@ -10,7 +10,7 @@ This week, I made an R Shiny web app that converts data on the number of colonie
 
 [The app can be found here](https://g-econ.shinyapps.io/Flight_of_the_Bumblebees). 
 
-*At the moment it does not work on iphone, but has been tested on windows, linus, and andorid.*
+*At the moment it does not work on iphone, but has been tested on windows, linux, and android.*
 
 ## Code Golf Abundant Numbers 11/15/21 @codegolf
 
