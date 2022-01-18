@@ -6,7 +6,7 @@
 
 ## Notes
 
-[Class Notes](../files/3010/3012Notes.pdf) 
+[Class Notes](https://github.com/gregleo-econ/micro-notes/raw/master/pdf/3012_Notes.pdf) 
 
 ## Intro
 
