@@ -1,13 +1,13 @@
 
 ### Econ 3012 ###
 
-3012 (Link: ../files/Images/3012.png)
+ 3012 (Link: ../files/Images/3012.png)
 
 ## Notes ##
 
-Class Notes (Link: ../files/3010/3012_Notes.pdf)  
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  
 
-Class Notes (Small Screen Version) (Link: ../files/3010/3012_Notes_Small.pdf)  
+ Class Notes (Small Screen Version) (Link: ../files/3010/3012_Notes_Small.pdf)  
 
 ## Intro ##
 
@@ -31,13 +31,13 @@ Greg's office hours: TBA. TA: TBA.
 
 ## Assignments ##
 
-###Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). # ###
-###Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). # ###
-###Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). # ###
-###Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). # ###
-###Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). # ###
-###Supply Practice (Link: ../files/3010/Supply_Practice.pdf). # ###
-###Oligopoly Practice (Link: ../files/3010/Cournot_Practice.pdf). # ###
+### Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). # ###
+### Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). # ###
+### Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). # ###
+### Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). # ###
+### Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). # ###
+### Supply Practice (Link: ../files/3010/Supply_Practice.pdf). # ###
+### Oligopoly Practice (Link: ../files/3010/Cournot_Practice.pdf). # ###
 
 ## Schedule ##
 
@@ -46,7 +46,7 @@ Greg's office hours: TBA. TA: TBA.
 ### Week 1: # ###
 
 Budget Constraint, Preferences.
-Please Read:Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf).
+Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf).
 
 ### Week 2: # ###
 
@@ -74,8 +74,8 @@ Market Demand
 
 ### Midterm Exam (Monday March 21st) # ###
 
-Midterm exam covering material up to and including Market Demand.Key Concepts- Updated for Spring 22 (Link: ../files/3010/Key_Concepts_2022_Midterm.pdf).  
-Copy of 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
+Midterm exam covering material up to and including Market Demand. Key Concepts- Updated for Spring 22 (Link: ../files/3010/Key_Concepts_2022_Midterm.pdf).  
+ Copy of 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
 
 ### Week 8:  # ###
 
@@ -108,14 +108,14 @@ Oligopoly
 
 ## Final Exam (Cumulative) Saturday, May 7 9:00-11:00am. Calhoun 337 ##
 
-Key Concepts- Updated for Spring 22 (Link: ../files/3010/Key_Concepts_2022_Final.pdf).
+ Key Concepts- Updated for Spring 22 (Link: ../files/3010/Key_Concepts_2022_Final.pdf).
 
 
 ## Additional Resources ##
 
-Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)
+ Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)
 
-Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf) (Updated 12/15/2021)  
+ Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf) (Updated 12/15/2021)  
 
 Problems Relevant to 2022 Final: 1,2,3,4,5,6,7,8,11,12,15,16,17,18,19,20,21,22 (Except D,E),23,24,25,26 (Only D,E),27,28 (Except B,D),32
 

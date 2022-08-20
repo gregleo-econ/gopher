@@ -1,10 +1,10 @@
 
 ### Teaching Economics to my Computer (New) ###
 
-In summer 2022, I launched a project to formalize some foundational microeconomics in theLean (Link: https://leanprover.github.io) proof assistant.  
+In summer 2022, I launched a project to formalize some foundational microeconomics in the Lean (Link: https://leanprover.github.io) proof assistant.  
 
 
-Lean is a programming language that implementsdependent type theory (Link: https://leanprover.github.io/theorem_proving_in_lean/dependent_type_theory.html). It is possible to formalize complex mathematical concepts in this language. More importantly, it is possible to have the computer exhaustively check proofs of results written in this language.  
+Lean is a programming language that implements dependent type theory (Link: https://leanprover.github.io/theorem_proving_in_lean/dependent_type_theory.html). It is possible to formalize complex mathematical concepts in this language. More importantly, it is possible to have the computer exhaustively check proofs of results written in this language.  
 
 
 The more knowledge that is encoded in a Lean (or any formal system) the easier it is to check, and possibly in the future, automatically generate proofs.  
@@ -14,10 +14,10 @@ The more knowledge that is encoded in a Lean (or any formal system) the easier i
 
 Mas-Colell, Whinston, Green Microeconomic Theory  
 
--Proposition 1.B.1 (Link: https://github.com/gregleo-econ/formal-microeconoimcs/blob/main/src/MWG_1_B_1.lean)
--Proposition 1.B.2 (Link: https://github.com/gregleo-econ/formal-microeconoimcs/blob/main/src/MWG_1_B_2.lean)
+- Proposition 1.B.1 (Link: https://github.com/gregleo-econ/formal-microeconoimcs/blob/main/src/MWG_1_B_1.lean)
+- Proposition 1.B.2 (Link: https://github.com/gregleo-econ/formal-microeconoimcs/blob/main/src/MWG_1_B_2.lean)
 
 Kreps’ Microeconomics Foundations  
 
--Proposition 1.9 (Link: https://github.com/gregleo-econ/formal-microeconoimcs/blob/main/src/Kreps_Prop_1_9.lean): various relation properties.
+- Proposition 1.9 (Link: https://github.com/gregleo-econ/formal-microeconoimcs/blob/main/src/Kreps_Prop_1_9.lean): various relation properties.
 

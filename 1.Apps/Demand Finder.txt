@@ -3,7 +3,7 @@
 
 This app, written in R, lets you find the demand for any utility function.  
 
-Link to Demand Finder (Link: https://g-econ.shinyapps.io/demand), or use the embedded app below.  
+ Link to Demand Finder (Link: https://g-econ.shinyapps.io/demand), or use the embedded app below.  
 
 ## App ##
 
