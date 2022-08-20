@@ -1,13 +1,9 @@
 
 ### Demand Finder ###
 
-This app, written in R, lets you find the demand for any utility function.
+This app, written in R, lets you find the demand for any utility function.  
 
-
-
-h	Link to Demand Finder	https://g-econ.shinyapps.io/demand
-, or use the embedded app below.
-
+Link to Demand Finder (Link: https://g-econ.shinyapps.io/demand), or use the embedded app below.  
 
 ## App ##
 

@@ -7,9 +7,7 @@ Leo, Greg and Lou, Jian and Van der Linden, Martin and Vorobeychik, Yevgeniy and
 
 ## Paper ##
 
-
-h	Matching Soulmates	https://onlinelibrary.wiley.com/doi/10.1111/jpet.12542
-
+Matching Soulmates (Link: https://onlinelibrary.wiley.com/doi/10.1111/jpet.12542)
 
 ## Matching Soulmates in R ##
 
@@ -18,8 +16,7 @@ h	Matching Soulmates	https://onlinelibrary.wiley.com/doi/10.1111/jpet.12542
 %r% <- function(m,f){t(apply(m,1,match.fun(f)))}
 
 #Operator "m %rm% i" removes rows and column indicies "i" from matrix "m". 
-%rm% <- function(m,i){if(length(i)>0){m[-i,-i]}else{m}}
-
+%rm% <- function(m,i){if(length(i)>0){m[-i,-i]}else{m}}  
 
 #Operator applies function "f" across list "l" with sapply.
 %s% <- function(l,f){sapply(l,match.fun(f))}

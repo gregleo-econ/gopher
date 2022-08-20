@@ -11,21 +11,14 @@ Healy, P.J. and Leo, Greg, Minimal Experiments
 
 ## Paper ##
 
-
-h	Minimal Experiments	../files/Papers/WP_Minimal_Experiments.pdf
-
-
+Minimal Experiments (Link: ../files/Papers/WP_Minimal_Experiments.pdf)  
 
 ## App ##
 
-
-h	Minimal Experiment App	https://gregleo-econ.shinyapps.io/minimalexperiments/
-
+Minimal Experiment App (Link: https://gregleo-econ.shinyapps.io/minimalexperiments/)
 
 ## Presentation ##
 
-
-h	Slides- 20 Min	../files/Presentations/minex.pptx
-
+Slides- 20 Min (Link: ../files/Presentations/minex.pptx)
 
 

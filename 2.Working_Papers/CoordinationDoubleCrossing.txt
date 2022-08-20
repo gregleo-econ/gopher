@@ -7,7 +7,5 @@ Castillo, Marco and Leo, Greg, From Coordination to Double-Crossing: Experiments
 
 ## Paper ##
 
-
-h	From Coordination to Double-Crossing	../files/Papers/WP_From_Coordination.pdf
-
+From Coordination to Double-Crossing (Link: ../files/Papers/WP_From_Coordination.pdf)
 

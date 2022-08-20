@@ -15,7 +15,5 @@ Leo, Greg, Eugene Vorobeychik and Myrna Wooders, Subgame Perfect Coalition Forma
 
 ## Paper ##
 
-
-h	Subgame Perfect Coalition Formation; Pareto Optimality, Individual Rationality, and Matching Soulmates	../files/Papers/WP_SPGS.pdf
-
+Subgame Perfect Coalition Formation; Pareto Optimality, Individual Rationality, and Matching Soulmates (Link: ../files/Papers/WP_SPGS.pdf)
 

@@ -1,39 +1,23 @@
 
 ### Econ 8100 ###
 
-
-i	8100	../files/Images/8100.png
-
+8100 (Link: ../files/Images/8100.png)
 
 ## Notes ##
 
-
-h	Class Notes	../files/8100/8100notes.pdf
- (Updated: 12/9/2021)
+Class Notes (Link: ../files/8100/8100notes.pdf) (Updated: 12/9/2021)
 
 ## Intro ##
 
-This is the course website for Vanderbilt Economics 8100. This is the first course of the PhD microeconomics core sequence. The course will cover the fundamentals of consumer theory, theory of the firm, and simple markets in partial equilibrium. This page will be continuously updated throughout the semester. Please check it on a regular basis. Consider subscribing to changes using a service such as
-h	Visual Ping	visualping.io
- or
-h	Wachete	wachete.com
-.
+This is the course website for Vanderbilt Economics 8100. This is the first course of the PhD microeconomics core sequence. The course will cover the fundamentals of consumer theory, theory of the firm, and simple markets in partial equilibrium. This page will be continuously updated throughout the semester. Please check it on a regular basis. Consider subscribing to changes using a service such asVisual Ping (Link: visualping.io) orWachete (Link: wachete.com).
 
 ## Textbook ##
 
-Main textbook:
-h	\Advanced Microeconomic Theory\*	https://www.amazon.com/Advanced-Microeconomic-Theory-Geoffrey-Jehle/dp/0273731912
-, Geoffrey Jehle and Philip Reny. Secondary textbook:
-h	\*Microeconomic Theory\	https://www.amazon.com/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401
-, Andreu Mas-Colell, Michael D. Whinston, Jerry R. Green.
+Main textbook:\Advanced Microeconomic Theory\* (Link: https://www.amazon.com/Advanced-Microeconomic-Theory-Geoffrey-Jehle/dp/0273731912), Geoffrey Jehle and Philip Reny. Secondary textbook:\*Microeconomic Theory\ (Link: https://www.amazon.com/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401), Andreu Mas-Colell, Michael D. Whinston, Jerry R. Green.
 
 ## Problem Sets ##
 
-There will be an assignment roughly each week. Problems will be added to the schedule about two weeks before the assignment is due. You must type your homework. This is the perfect time for you to learn to type in \\(\LaTeX\\). There are many
-h	online resources	https://learnxinyminutes.com/docs/latex/
- for learning \\(\LaTeX\\). One particularly easy way to get started with \\(\LaTeX\\) is through the very user-friendly editor called
-h	Lyx	lyx.org
-. There will be a learning curve at first. Embrace it. This is an investment.
+There will be an assignment roughly each week. Problems will be added to the schedule about two weeks before the assignment is due. You must type your homework. This is the perfect time for you to learn to type in \\(\LaTeX\\). There are manyonline resources (Link: https://learnxinyminutes.com/docs/latex/) for learning \\(\LaTeX\\). One particularly easy way to get started with \\(\LaTeX\\) is through the very user-friendly editor calledLyx (Link: lyx.org). There will be a learning curve at first. Embrace it. This is an investment.
 
 ## Class ##
 
@@ -50,26 +34,12 @@ My office hours: Thursday 11-12pm in Calhoun 404. TA: Steve Hamilton. Steve's Of
 
 ## Assignments ##
 
-###
-h	Problem Set 1	../files/8100/ps1.pdf
-. Due 9/7/21. # ###
-###
-h	Problem Set 2	../files/8100/ps2.pdf
-. Due 9/16/21. # ###
-###
-h	Problem Set 3	../files/8100/ps3.pdf
-. Due 9/28/21. # ###
-###
-h	Problem Set 4	../files/8100/ps4.pdf
-. Due 10/12/21. # ###
-###
-h	Problem Set 5	../files/8100/ps5.pdf
-. Due 11/9/21.
-h	Latex File	../files/8100/ps5.tex
-. # ###
-###
-h	Problem Set 6	../files/8100/ps6.pdf
-. Due 11/30/21. # ###
+###Problem Set 1 (Link: ../files/8100/ps1.pdf). Due 9/7/21. # ###
+###Problem Set 2 (Link: ../files/8100/ps2.pdf). Due 9/16/21. # ###
+###Problem Set 3 (Link: ../files/8100/ps3.pdf). Due 9/28/21. # ###
+###Problem Set 4 (Link: ../files/8100/ps4.pdf). Due 10/12/21. # ###
+###Problem Set 5 (Link: ../files/8100/ps5.pdf). Due 11/9/21.Latex File (Link: ../files/8100/ps5.tex). # ###
+###Problem Set 6 (Link: ../files/8100/ps6.pdf). Due 11/30/21. # ###
 
 
 ## Schedule ##
@@ -80,9 +50,7 @@ Choice. 1.1 Primitive Notions. 1.2 Preferences and Utility.
 Please Review:
 A1.4 Real Value Functions.
 Additional Reading:
-
-h	Rubinstein Lecture Notes Chapter 1.	https://arielrubinstein.org/gt/arielDocs/
-
+Rubinstein Lecture Notes Chapter 1. (Link: https://arielrubinstein.org/gt/arielDocs/)
 
 ### Week 2: Sept 7,9 # ###
 
@@ -122,9 +90,7 @@ Covers Chapter 1
 ### Week 9: Oct 26,28 # ###
 
 3.3 Cost. 3.4 Duality in Production.
-
-h	Lecture Notes on Separable Preferences Ted Bergstrom	https://www.econ.ucsb.edu/~tedb/Courses/GraduateTheoryUCSB/separabilitynotes.pdf
-
+Lecture Notes on Separable Preferences Ted Bergstrom (Link: https://www.econ.ucsb.edu/~tedb/Courses/GraduateTheoryUCSB/separabilitynotes.pdf)
 
 ### Week 10: Nov 2,4 # ###
 
@@ -154,60 +120,26 @@ Covers material through General Equilibrium.
 
 Other Stuff
 
--  
-h	Workout Problems for Practice	https://econ.ucsb.edu/~tedb/Courses/GraduateTheoryUCSB/workouts.pdf
-
--  
-h	Monopoly and Cournot Problem	../files/8100/Monopoly_Cournot_Problem.pdf
-
+-  Workout Problems for Practice (Link: https://econ.ucsb.edu/~tedb/Courses/GraduateTheoryUCSB/workouts.pdf)
+-  Monopoly and Cournot Problem (Link: ../files/8100/Monopoly_Cournot_Problem.pdf)
 
 Old Exams
 
--  
-h	Midterm 1- 2019	../files/8100/exams/Midterm1_2019.pdf
-
--  
-h	Midterm 2- 2019	../files/8100/exams/Midterm2_2019.pdf
-
--  
-h	Midterm 2- 2019 (Solutions)	../files/8100/exams/Midterm2_2019.pdf
-
--  
-h	Final Exam- 2019	../files/8100/exams/Final_2019.pdf
-
--  
-h	Final Exam- 2019 (Solutions)	../files/8100/exams/Final_2019_Solutions.pdf
-
--  
-h	Midterm- 2020	../files/8100/exams/Midterm_2020.pdf
-
--  
-h	Midterm- 2020 (Solutions)	../files/8100/exams/Midterm_2020_Solutions.pdf
-
--  
-h	Prelim- 2020	../files/8100/Prelim_2020.pdf
-
--  
-h	Final Exam- 2020	../files/8100/exams/Final_2020.pdf
-
--  
-h	Final Exam- 2020 (Solutions)	../files/8100/exams/Final_2020_Solutions.pdf
-
--  
-h	Prelim- 2021	../files/8100/Prelim_2021.pdf
-
--  
-h	Final Exam- 2021	../files/8100/exams/Midterm_2021.pdf
-
--  
-h	Final Exam- 2021	../files/8100/exams/Final_2021.pdf
-
--  
-h	Final Exam- 2021 (Solutions)	../files/8100/exams/Final_2021_Solutions.pdf
+-  Midterm 1- 2019 (Link: ../files/8100/exams/Midterm1_2019.pdf)
+-  Midterm 2- 2019 (Link: ../files/8100/exams/Midterm2_2019.pdf)
+-  Midterm 2- 2019 (Solutions) (Link: ../files/8100/exams/Midterm2_2019.pdf)
+-  Final Exam- 2019 (Link: ../files/8100/exams/Final_2019.pdf)
+-  Final Exam- 2019 (Solutions) (Link: ../files/8100/exams/Final_2019_Solutions.pdf)
+-  Midterm- 2020 (Link: ../files/8100/exams/Midterm_2020.pdf)
+-  Midterm- 2020 (Solutions) (Link: ../files/8100/exams/Midterm_2020_Solutions.pdf)
+-  Prelim- 2020 (Link: ../files/8100/Prelim_2020.pdf)
+-  Final Exam- 2020 (Link: ../files/8100/exams/Final_2020.pdf)
+-  Final Exam- 2020 (Solutions) (Link: ../files/8100/exams/Final_2020_Solutions.pdf)
+-  Prelim- 2021 (Link: ../files/8100/Prelim_2021.pdf)
+-  Final Exam- 2021 (Link: ../files/8100/exams/Midterm_2021.pdf)
+-  Final Exam- 2021 (Link: ../files/8100/exams/Final_2021.pdf)
+-  Final Exam- 2021 (Solutions) (Link: ../files/8100/exams/Final_2021_Solutions.pdf)
 
 
-
-Helpful Tips I wrote these with my classmate Zach Bethune when I was a student. They have come in handy for me many times. If you find an error, or have a suggestion about something to add, let me know.
-h	Helpful Tips	../files/8100/HelpfulTips.pdf
-
+Helpful Tips I wrote these with my classmate Zach Bethune when I was a student. They have come in handy for me many times. If you find an error, or have a suggestion about something to add, let me know.Helpful Tips (Link: ../files/8100/HelpfulTips.pdf)
 

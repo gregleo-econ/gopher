@@ -8,9 +8,7 @@ Inequality
 
 ## Link  ##
 
-
-h	A Generalization of Teicher's Poisson Tail Inequality	../files/Papers/WP_Generalization-of-Teicher.pdf
-
+A Generalization of Teicher's Poisson Tail Inequality (Link: ../files/Papers/WP_Generalization-of-Teicher.pdf)
 
 
 

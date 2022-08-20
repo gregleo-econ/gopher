@@ -23,7 +23,5 @@ Dustan, Andrew and Koutout, Kristine and Leo, Greg, Reduction in Belief Elicitat
 
 ## Paper ##
 
-
-h	Reduction in Belief Elicitation	../files/Papers/WP_Reduction_in_Belief_Elicitation.pdf
-
+Reduction in Belief Elicitation (Link: ../files/Papers/WP_Reduction_in_Belief_Elicitation.pdf)
 

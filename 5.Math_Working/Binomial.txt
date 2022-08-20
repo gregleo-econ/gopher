@@ -7,9 +7,7 @@ Leo, Greg, A Binomial Tail Inequality for Successes
 
 ## Link  ##
 
-
-h	A Binomial Tail Inequality for Successes	../files/Papers/WP_A-Binomial-Tail-Inequality.pdf
-
+A Binomial Tail Inequality for Successes (Link: ../files/Papers/WP_A-Binomial-Tail-Inequality.pdf)
 
 
 

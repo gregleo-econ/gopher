@@ -11,7 +11,5 @@ Greg Leo, Complainer's Dilemma
 
 ## Paper ##
 
-
-h	Reduction in Belief Elicitation	../files/Papers/WP_Complainers_Dilemma.pdf
-
+Reduction in Belief Elicitation (Link: ../files/Papers/WP_Complainers_Dilemma.pdf)
 
