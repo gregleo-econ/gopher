@@ -1,0 +1,162 @@
+
+### Econ 3012 ###
+
+
+i	3012	../files/Images/3012.png
+
+
+## Notes ##
+
+
+h	Class Notes	../files/3010/3012_Notes.pdf
+
+
+
+
+h	Class Notes (Small Screen Version)	../files/3010/3012_Notes_Small.pdf
+
+
+
+## Intro ##
+
+This is the course website for Vanderbilt Economics 3012. This course focuses on the formal analysis of the behavior of individuals and firms and how these behaviors aggregate in a market. We will analyze market performance and determine how performance is influenced by various changes. This page will be continuously updated throughout the semester. Please check it on a regular basis.
+
+## Mathematical Level ##
+
+Some concepts and formulas from differential calculus will be used, but most of the presentations, homework and exams will involve diagrams, algebra and analytic reasoning. A review of the relevant mathematical concepts will occur on the first day of class.
+
+## Problem Sets ##
+
+Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. The problem sets will be posted on this page in the schedule below. I encourage working on the homework in groups. The homework will be graded by the teaching assistant.
+
+## Exams and Grading ##
+
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on midterm exam, 50% on the final exam, and 20% on homework.
+
+## Office Hours / Teaching Assistant ##
+
+Greg's office hours: TBA. TA: TBA.
+
+## Assignments ##
+
+###
+h	Problem Set 1	../files/3010/Problem_Set_1.pdf
+. # ###
+###
+h	Problem Set 2	../files/3010/Problem_Set_2.pdf
+. # ###
+###
+h	Problem Set 3	../files/3010/Problem_Set_3.pdf
+. # ###
+###
+h	Problem Set 4	../files/3010/Problem_Set_4.pdf
+. # ###
+###
+h	Problem Set 5	../files/3010/Problem_Set_5.pdf
+. # ###
+###
+h	Supply Practice	../files/3010/Supply_Practice.pdf
+. # ###
+###
+h	Oligopoly Practice	../files/3010/Cournot_Practice.pdf
+. # ###
+
+## Schedule ##
+
+### Week 0: Overview of Syllabus & Chapter, Budget Constraint. # ###
+
+### Week 1: # ###
+
+Budget Constraint, Preferences.
+Please Read:
+h	Review of Functions	../files/3010/MathReviewFunctions.pdf
+.
+
+### Week 2: # ###
+
+Preferences, Utility.
+
+### Week 3: # ###
+
+Choice.
+
+### Week 4: # ###
+
+Demand.
+
+### Week 5: # ###
+
+Slutsky Equation, Buying and Selling
+
+### Week 6: # ###
+
+Buying and Selling, Intertemporal Choice
+
+### Week 7:  # ###
+
+Market Demand
+
+### Midterm Exam (Monday March 21st) # ###
+
+Midterm exam covering material up to and including Market Demand.
+h	Key Concepts- Updated for Spring 22	../files/3010/Key_Concepts_2022_Midterm.pdf
+.
+
+
+h	Copy of 2022 Midterm	../files/3010/2022_Midterm.pdf
+
+
+
+### Week 8:  # ###
+
+Midterm Exam, Equilibrium
+
+### Week 9:  # ###
+
+Equilibrium
+
+### Week 10: # ###
+
+echnology, Profit Maximization
+
+### Week 11: # ###
+
+Cost Minimization, Firm Supply
+
+### Week 12: # ###
+
+Industry Supply, Monopoly
+
+
+### Week 13: # ###
+
+Monopoly Behavior
+
+
+### Week 14: # ###
+
+Oligopoly
+
+
+## Final Exam (Cumulative) Saturday, May 7 9:00-11:00am. Calhoun 337 ##
+
+
+h	Key Concepts- Updated for Spring 22	../files/3010/Key_Concepts_2022_Final.pdf
+.
+
+
+## Additional Resources ##
+
+
+h	Extra Practice Problems	../files/3010/PracticeProblems.pdf
+
+
+
+h	Selected Solutions for Practice Problems	../files/3010/PracticeProblemSolutions.pdf
+ (Updated 12/15/2021)
+
+
+Problems Relevant to 2022 Final: 1,2,3,4,5,6,7,8,11,12,15,16,17,18,19,20,21,22 (Except D,E),23,24,25,26 (Only D,E),27,28 (Except B,D),32
+
+
+

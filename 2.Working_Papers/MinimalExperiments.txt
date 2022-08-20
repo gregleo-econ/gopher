@@ -1,0 +1,31 @@
+
+### Minimal Experiments (New) ###
+
+## Abstract ##
+
+Given a parameterized model of preferences, what choice data is needed to classify agents according to that model? Similarly, what data would be sufficient for testing the validity of the model? We characterize choice datasets (or, experiments) that either classify or test a given model. We do so using a novel graph-theoretic construction: the labeled permutohedron. We then provide an algorithm that can identify the "smallest" experiment for either classifying subjects or testing a model. As an illustrative example, we show how this algorithm can be used to simplify belief elicitation procedures.
+
+## Citation  ##
+
+Healy, P.J. and Leo, Greg, Minimal Experiments
+
+## Paper ##
+
+
+h	Minimal Experiments	../files/Papers/WP_Minimal_Experiments.pdf
+
+
+
+## App ##
+
+
+h	Minimal Experiment App	https://gregleo-econ.shinyapps.io/minimalexperiments/
+
+
+## Presentation ##
+
+
+h	Slides- 20 Min	../files/Presentations/minex.pptx
+
+
+
