@@ -10,13 +10,14 @@ This is the course website for Vanderbilt Economics 3012. This page will be cont
 
 3012 focuses on the formal analysis of the behavior of individuals and firms* and how these behaviors aggregate in *markets.  We will analyze market performance and determine how performance is influenced by various changes.  
 
+
 Some concepts and formulas from differential calculus will be used, but most of the presentations, homework, and exams will involve diagrams, algebra and analytic reasoning. I emphasize intuition and deep understand over the mechanical process of solving problems.  
 
-There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.  
 
-The TA for this course is Qiao Lin. 
-Qiao's office hours: TBA in TBA.
-Greg's office hours: TBA in TBA.
+The TA for this course is Qiao Lin.  
+Qiao's office hours: TBA in TBA.  
+Greg's office hours: TBA in TBA.  
 
 ## Course Notes / Textbook ##
 
@@ -32,13 +33,12 @@ The “unofficial” textbook for this course are my class notes. These can eith
 
 Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. I encourage working on the homework in groups. The homework will be graded by the teaching assistant. I will add the due dates below as we move through the semester.
 
-### Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). # ###
-### Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). # ###
-### Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). # ###
-### Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). # ###
-### Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). # ###
-### Supply Practice (Link: ../files/3010/Supply_Practice.pdf). # ###
-### Oligopoly Practice (Link: ../files/3010/Cournot_Practice.pdf). # ###
+ Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf).  
+ Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf).  
+ Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf).  
+ Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  
+ Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf).  
+Problem Set 6 
 
 ## Schedule ##
 
