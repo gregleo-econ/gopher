@@ -84,20 +84,20 @@ The Gopher Protocol (Link: https://mncomputinghistory.com/gopher-protocol/) is a
 
 You have a few options for visiting Gopherspace. If you have Linux, you can use the Lynx browser, which supports both gopher and http. On Windows or Mac, you can look for a native gopher client, or use the Firefox add-on client called “Overbite” (Link: https://gopher.floodgap.com/overbite/). If you do not want to download a client, you can also use the Floodgap Public Gopher Proxy (Link: https://gopher.floodgap.com), which allows you to view the Gopherspace through your http browser.
 
-## 10/16/21 @academic ##
+## Updated Draft of Subgame Perfect Coalition Formation 10/16/21 @academic ##
 
 I have added an updated working paper Subgame Perfect Coalition Formation (Link: https://gregcleo.com/2.Working_Papers/SPGS.html) (joint with Eugene Vorobeychik and Myrna Wooders).  
 
 In this paper, we analyze a dynamic coalition formation game, the "seqeuential proposer game". A player proposes a coalition. The players in that coalition accpet or reject the proposal. As long as each player is able to make enough proposals, the equilibrium outcome is Pareto optimal.
 
-## 8/20/21 @academic ##
+## Matching Soulmates Published 8/20/21 @academic ##
 
  Matching Soulmates (Link: https://gregcleo.com/1.Papers/Matching_Soulmates.html) has been accepted in the Journal of Public Economic Theory. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/PUB_Matching-Soulmates.pdf).  
 
  xkcd 770 (Link: https://imgs.xkcd.com/comics/all_the_girls.png)
 <center xkcd #770 (Link: https://xkcd.com/770/)</center>
 
-## 8/12/21 @webpage ##
+## New Website 8/12/21 @webpage ##
 
 Welcome to my new website. This new website generator is written in R. The theme (which has since been updated), celebrates the 30th anniversary of the public World Wide Web (Link: https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web#1991%E2%80%931995:_The_Web_goes_public,_early_growth). See for instance: Caine, Farber & Gordon (Link: http://cfg.com).
 
