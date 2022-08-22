@@ -1,35 +1,36 @@
++4
 
 ### Econ 3012 ###
 
  3012 (Link: ../files/Images/3012.png)
 
-## Notes ##
+## General Info ##
+
+This is the course website for Vanderbilt Economics 3012. This page will be continuously updated throughout the semester. Please check it regularly.   
+
+3012 focuses on the formal analysis of the behavior of individuals and firms* and how these behaviors aggregate in *markets.  We will analyze market performance and determine how performance is influenced by various changes.  
+
+Some concepts and formulas from differential calculus will be used, but most of the presentations, homework, and exams will involve diagrams, algebra and analytic reasoning. I emphasize intuition and deep understand over the mechanical process of solving problems.  
+
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.
+
+The TA for this course is Qiao Lin. 
+Qiao's office hours: TBA in TBA.
+Greg's office hours: TBA in TBA.
+
+## Course Notes / Textbook ##
+
+The “official” textbook for this course is Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983). Any edition of this textbook should be fine. You will also need a copy of the Workouts in Intermediate Microeconomics (Link: https://wwnorton.com/books/9780393922615). I recommend the latest edition of this book since that is the problem numbering I will use in the problem sets. 
+
+The “unofficial” textbook for this course are my class notes. These can either complement or replace the textbook. 
 
  Class Notes (Link: ../files/3010/3012_Notes.pdf)  
 
- Class Notes (Small Screen Version) (Link: ../files/3010/3012_Notes_Small.pdf)  
-
-## Intro ##
-
-This is the course website for Vanderbilt Economics 3012. This course focuses on the formal analysis of the behavior of individuals and firms and how these behaviors aggregate in a market. We will analyze market performance and determine how performance is influenced by various changes. This page will be continuously updated throughout the semester. Please check it on a regular basis.
-
-## Mathematical Level ##
-
-Some concepts and formulas from differential calculus will be used, but most of the presentations, homework and exams will involve diagrams, algebra and analytic reasoning. A review of the relevant mathematical concepts will occur on the first day of class.
+ Class Notes (Phone Version) (Link: ../files/3010/3012_Notes_Small.pdf)  
 
 ## Problem Sets ##
 
-Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. The problem sets will be posted on this page in the schedule below. I encourage working on the homework in groups. The homework will be graded by the teaching assistant.
-
-## Exams and Grading ##
-
-There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on midterm exam, 50% on the final exam, and 20% on homework.
-
-## Office Hours / Teaching Assistant ##
-
-Greg's office hours: TBA. TA: TBA.
-
-## Assignments ##
+Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. I encourage working on the homework in groups. The homework will be graded by the teaching assistant. I will add the due dates below as we move through the semester.
 
 ### Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). # ###
 ### Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). # ###
@@ -41,83 +42,53 @@ Greg's office hours: TBA. TA: TBA.
 
 ## Schedule ##
 
-### Week 0: Overview of Syllabus & Chapter, Budget Constraint. # ###
+### Week 0: Overview of Syllabus & Budget Constraint. # ###
 
-### Week 1: # ###
+### Week 1: Budget Constraint, Preferences.   # ###
 
-Budget Constraint, Preferences.
-Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf).
+Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). If this stuff is familiar to you, you are probably good-to-go for the class. Otherwise (don't panic), you should talk to me or Qiao about what you can do to review the math you will need for the course. 
 
-### Week 2: # ###
+### Week 2: Preferences, Utility. # ###
 
-Preferences, Utility.
+### Week 3: Choice. # ###
 
-### Week 3: # ###
+### Week 4: Demand. # ###
 
-Choice.
+### Week 5: Slutsky Equation, Buying and Selling # ###
 
-### Week 4: # ###
+### Week 6: Buying and Selling, Intertemporal Choice # ###
 
-Demand.
+### Week 7: Market Demand # ###
 
-### Week 5: # ###
+### Midterm Exam (TBA) # ###
 
-Slutsky Equation, Buying and Selling
+The exam covers material up to and including Market Demand.  
+ Key Concepts- Not Yet Updated for Fall 22 (Link: ../files/3010/Key_Concepts_2022_Midterm.pdf).  
 
-### Week 6: # ###
+### Week 8: Midterm Exam, Equilibrium # ###
 
-Buying and Selling, Intertemporal Choice
+### Week 9: Equilibrium # ###
 
-### Week 7:  # ###
+### Week 10: Technology, Profit Maximization # ###
 
-Market Demand
+### Week 11: Cost Minimization, Firm Supply # ###
 
-### Midterm Exam (Monday March 21st) # ###
+### Week 12: Industry Supply, Monopoly   # ###
 
-Midterm exam covering material up to and including Market Demand. Key Concepts- Updated for Spring 22 (Link: ../files/3010/Key_Concepts_2022_Midterm.pdf).  
- Copy of 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
+### Week 13: Monopoly Behavior   # ###
 
-### Week 8:  # ###
-
-Midterm Exam, Equilibrium
-
-### Week 9:  # ###
-
-Equilibrium
-
-### Week 10: # ###
-
-echnology, Profit Maximization
-
-### Week 11: # ###
-
-Cost Minimization, Firm Supply
-
-### Week 12: # ###
-
-Industry Supply, Monopoly  
-
-### Week 13: # ###
-
-Monopoly Behavior  
-
-### Week 14: # ###
-
-Oligopoly
+### Week 14: Oligopoly # ###
 
 
-## Final Exam (Cumulative) Saturday, May 7 9:00-11:00am. Calhoun 337 ##
+## Final Exam (Cumulative) Time: TBA ##
 
  Key Concepts- Updated for Spring 22 (Link: ../files/3010/Key_Concepts_2022_Final.pdf).
 
-
-## Additional Resources ##
+## Additional Practice  ##
 
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)
-
  Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf) (Updated 12/15/2021)  
-
-Problems Relevant to 2022 Final: 1,2,3,4,5,6,7,8,11,12,15,16,17,18,19,20,21,22 (Except D,E),23,24,25,26 (Only D,E),27,28 (Except B,D),32
+ Copy of Spring 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
 
 
 
