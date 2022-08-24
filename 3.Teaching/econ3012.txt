@@ -22,11 +22,9 @@ Greg's office hours: TBA in TBA.
 
 The “official” textbook for this course is Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983). Any edition of this textbook should be fine. You will also need a copy of the Workouts in Intermediate Microeconomics (Link: https://wwnorton.com/books/9780393922615). I recommend the latest edition of this book since that is the problem numbering I will use in the problem sets. 
 
-The “unofficial” textbook for this course are my class notes. These can either complement or replace the textbook. 
+The “unofficial” textbook for this course are my class notes. These can either complement or replace the textbook.  
 
  Class Notes (Link: ../files/3010/3012_Notes.pdf)  
-
- Class Notes (Phone Version) (Link: ../files/3010/3012_Notes_Small.pdf)  
 
 ## Problem Sets ##
 
