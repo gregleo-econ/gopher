@@ -3,8 +3,7 @@
 
 ## Abstract ##
 
-Given a parameterized model of preferences, what choice data is needed to classify agents according to that model? Similarly, what data would be sufficient for testing the validity of the model? We characterize choice datasets (or, experiments) that either classify or test a given model. We do so using a novel graph-theoretic construction: the labeled permutohedron. We then provide an algorithm that can identify the "smallest" experiment for either classifying subjects or testing a model. As an illustrative example, we show how this algorithm can be used to simplify belief elicitation procedures.
-
+Given a parameterized model of preferences, what choice data or experiment would identify an agent’s parameter value in that model? Similarly, what data would be sufficient for testing definitely whether an agent is consistent with the model? We identify a method for finding experiments that will either classify or test a given model. We do so using a novel graph-theoretic construction: The labeled permutohedron. We then provide an algorithm that finds the “smallest” such experiment for any model.
 ## Citation  ##
 
 Healy, P.J. and Leo, Greg, Minimal Experiments
