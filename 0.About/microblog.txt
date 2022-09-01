@@ -1,21 +1,19 @@
 
-### Blog   ###
+### News ###
 
-## New Website Script 8/22/22 @programming ##
+## New Website Script 8/22/22 @computing ##
 
-This webpage is now built using an updated script that converts the markdown source to html using regular expression replacements rather than R's knit function. This has given me flexibility to convert the markdown to other formats including the plain text that I serve on my gopher server (Link: gopher://gopher.gregcleo.com:70/).
+This webpage is now built using an updated script that converts the markdown source to html using regular expression replacements. It also builds the plain text version I serve on my gopher server (Link: gopher://gopher.gregcleo.com:70/).
 
-## Updated Draft of Coarse Belief Elicitation 8/18/22 @academic ##
+## Updated Draft 8/18/22 @academic ##
 
  P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have posted a draft of our new working paper Coarse Belief Elicitation (Link: https://gregcleo.com/2.Working_Papers/CoarseBeliefs.html). In this paper, we look at how to elicit beliefs of the form "What is the probability of event X" when you only need to know which of several ranges that belief is in. 
 
-## Updated Draft of Reduction in Belief Elictiation 8/12/22 @academic ##
+## Updated Draft 8/12/22 @academic ##
 
 Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
 
-In this paper, we test whether failure of the reduction of compound lotteries* is responsible for poor performance of a common belief elicitation procedure called the *Binarized Quadratic Scoring Rule. 
-
-## Updated Draft of Minimal Experiments 8/05/22 @research ##
+## Updated Draft 8/05/22 @academic ##
 
 I have posted an updated draft of Minimal Experiments (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf) joint with P.J. Healy (Link: https://healy.econ.ohio-state.edu/).  
 
@@ -23,85 +21,31 @@ I have posted an updated draft of Minimal Experiments (Link: https://gregcleo.co
 
  Subgame Perfect Coalition Formation (Link: https://gregcleo.com/1.Papers/SPGS.html) joint with Yevgeniy Vorobeychik and Myrna Wooders has been accepted in the Dynamic Games and Applications. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/WP_SPGS.pdf).  
 
-In this paper, we present a decentralizerd dynamic matching game known as Rotating Proposer. This game is very natural and has some impressive properties in equlibrium. 
-
 ## Second Order Beliefs and Gender Published 6/20/22 @academic ##
 
  Second Order Beliefs and Gender (Link: https://gregcleo.com/1.Papers/SPGS.html) joint with Kristine Koutout and Andrew Dustan has been accepted in the Journal of Economic Behavior & Organization. The latest version of the paper is available here (Link: https://www.sciencedirect.com/science/article/pii/S0167268122002190?dgcid=author#!).  
 
-In this paper we show that while men and women do not have different beliefs, people believe men will expect men to perform better in a math task. 
-
-## Minimal Experiments Draft 4/30/22 @academic ##
-
- MinEx (Link: ../files/Images/minex.png)  
+## New Working Paper 4/30/22 @academic ##
 
 I am pleased to post a draft (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf) version of Minimal Experiments joint with P.J. Healy (Link: https://healy.econ.ohio-state.edu/).  
 
-In this paper, we show you how to find the simplest possible experiment that will test your model. 
-
-## Flight of the Bumblebees @programming ##
-
- Tidy Tuesday (Link: https://github.com/rfordatascience/tidytuesday) is a weekly data science “challenge” for the R community. This week’s dataset tracks bee colonies in the US over the past few years.  
-
-This week, I made an R Shiny web app that converts data on the number of colonies in each state into a song. My favorite state is listen to is Georgia (my home state). When played fast enough, these little songs sound vaguely like Flight of the Bumblebee (Link: https://www.youtube.com/watch?v=M93qXQWaBdE).
-
- The app can be found here (Link: https://g-econ.shinyapps.io/Flight_of_the_Bumblebees). 
-
-At the moment it does not work on iphone, but has been tested on windows, linux, and android.
-
-## Code Golf Abundant Numbers 11/15/21 @programming ##
-
-The goal in code golf is to produce a program that solves a problem with as few characters as possible. Here is a code golf problem where R does pretty well.
-
-This problem comes from Here (Link: https://code.golf/abundant-numbers).
-
-An abundant number is a number for which the sum of its proper divisors (divisors not including the number itself) is greater than the number itself. For example 12 is abundant because its proper divisors are 1, 2, 3, 4, and 6 which add up to 16.
-
-Print all the abundant numbers from 1 to 200 inclusive, each on their own line.
-
-This code takes advantage of R’s matrix functions and operators. It is 46 Characters
-
-
-a=1:200
-t(t(a[((!outer(a,a,”%%”))%%a)>=2a]))
-
-
-## 11/4/21, 7:14 PM @academic ##
-
-Andrew Dustan, Kristine Koutout and I have completed a new working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
-
-In this paper, we test whether failure of the reduction of compound lotteries* is responsible for poor performance of a common belief elicitation procedure called the *Binarized Quadratic Scoring Rule. 
-
-## 11/1/21, 7:32 PM @computing ##
+## Gopherspace 11/1/21, 7:32 PM @computing ##
 
 I am now on gopherspace at gopher://gopher.gregcleo.com:70/ (Link: gopher://gopher.gregcleo.com:70/).
-
-My gopher server runs in a docker container on a docker “swarm” in my raspberry pi zero cluster. Here’s a picture of this funny little server:
-
- Pi Zero Cluster (Link: ../files/Images/picluster.jpeg)  
-
-The Gopher Protocol (Link: https://mncomputinghistory.com/gopher-protocol/) is an alternative to HTTP that was created in 1991 at the University of Minnesota. It is a very simple protocol for the distribution of (primarily) text. Gopher has had a resurgence recently thanks to the “Small Internet” movement that aims to get away from the bloat and noise of the modern internet. I remember Gopher vaguely from my childhood. It’s a digital world that has been stuck in twilight for 25 years.
-
-You have a few options for visiting Gopherspace. If you have Linux, you can use the Lynx browser, which supports both gopher and http. On Windows or Mac, you can look for a native gopher client, or use the Firefox add-on client called “Overbite” (Link: https://gopher.floodgap.com/overbite/). If you do not want to download a client, you can also use the Floodgap Public Gopher Proxy (Link: https://gopher.floodgap.com), which allows you to view the Gopherspace through your http browser.
 
 ## Updated Draft of Subgame Perfect Coalition Formation 10/16/21 @academic ##
 
 I have added an updated working paper Subgame Perfect Coalition Formation (Link: https://gregcleo.com/2.Working_Papers/SPGS.html) (joint with Eugene Vorobeychik and Myrna Wooders).  
 
-In this paper, we analyze a dynamic coalition formation game, the "seqeuential proposer game". A player proposes a coalition. The players in that coalition accpet or reject the proposal. As long as each player is able to make enough proposals, the equilibrium outcome is Pareto optimal.
+## New Working Paper 11/4/21, 7:14 PM @academic ##
+
+Andrew Dustan, Kristine Koutout and I have completed a new working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
 
 ## Matching Soulmates Published 8/20/21 @academic ##
 
  Matching Soulmates (Link: https://gregcleo.com/1.Papers/Matching_Soulmates.html) has been accepted in the Journal of Public Economic Theory. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/PUB_Matching-Soulmates.pdf).  
 
- xkcd 770 (Link: https://imgs.xkcd.com/comics/all_the_girls.png)
-<center xkcd #770 (Link: https://xkcd.com/770/)</center>
+## New Website 8/12/21 @computing ##
 
-## New Website 8/12/21 @webpage ##
-
-Welcome to my new website. This new website generator is written in R. The theme (which has since been updated), celebrates the 30th anniversary of the public World Wide Web (Link: https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web#1991%E2%80%931995:_The_Web_goes_public,_early_growth). See for instance: Caine, Farber & Gordon (Link: http://cfg.com).
-
-This page builds automatically using github actions! This lets me update the page and add content from anywhere. In fact, I posted this update from my Pocket C.H.I.P (Link: https://opensource.com/article/17/2/pocketchip-or-pi).  
-
- Pocket CHIP (Link: ../files/Images/pocketchip.jpeg)
+Welcome to my new website. This website is built from a folder of markdown files using custom code written in R.
 
