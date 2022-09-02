@@ -7,7 +7,7 @@
 
 These notes are a work in progress. I will try to keep them updated as we move through the class.
 
- Notes (Link: ../files/8100/8100notes_Part1.pdf) (Updated: 9/2/2022)
+ Notes (Link: ../files/8100/8100notes.pdf) (Updated: 9/2/2022)
 
 ## Intro ##
 
@@ -37,7 +37,7 @@ My office hours: Thursday 11-12pm in Calhoun 404. TA: Steve Hamilton. Steve's Of
 
 ## Assignments ##
 
-### Chapter 2 Exercises Source (Link: ../files/8100/ps_source/ps1.txt). Due 9/7/21. # ###
+### Exercises from Chapter 2 of Notes Source (Link: ../files/8100/ps_source/ps1.txt). Due 9/7/21. # ###
 ### Problem Set 2 (Link: ../files/8100/ps2.pdf). Due 9/16/21. # ###
 ### Problem Set 3 (Link: ../files/8100/ps3.pdf). Due 9/28/21. # ###
 ### Problem Set 4 (Link: ../files/8100/ps4.pdf). Due 10/12/21. # ###
