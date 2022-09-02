@@ -21,13 +21,14 @@ Class meets T,TH 1:15-2:30 in Wilson Hall 103.
 
 ## Course Notes / Textbook ##
 
-The “official” textbook for this course is Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983). Any edition of this textbook should be fine. You will also need a copy of the Workouts in Intermediate Microeconomics (Link: https://wwnorton.com/books/9780393922615). I recommend the latest edition of this book since that is the problem numbering I will use in the problem sets. 
+The official textbook for this course is Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983). Any edition of this textbook should be fine. You will also need a copy of the Workouts in Intermediate Microeconomics (Link: https://wwnorton.com/books/9780393922615). I recommend the latest edition of this book since that is the problem numbering I will use in the problem sets. 
 
-The “unofficial” textbook for this course are my class notes. These can either complement or replace the textbook. 
 
 ## Class Notes  ##
 
- Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 8/25/2022
+These class notes are a polished version of what I cover in class. 
+
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 9/2/2022
 
 ## Problem Sets ##
 

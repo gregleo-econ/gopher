@@ -5,7 +5,9 @@
 
 ## Notes ##
 
- Class Notes (Link: ../files/8100/8100notes.pdf) (Updated: 8/31/2022)
+These notes are a work in progress. I will try to keep them updated as we move through the class.
+
+ Notes (Link: ../files/8100/8100notes_Part1.pdf) (Updated: 9/2/2022)
 
 ## Intro ##
 
@@ -24,7 +26,7 @@ There will be an assignment roughly each week. Problems will be added to the sch
 
 9:35-10:50 in Calhoun 413B.
 
-## Exams and Grading ##
+## Exams and Grading   ##
 
 There will be one midterms and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on midterm exam, 50% on the final exam, and 20% on homework.
 
