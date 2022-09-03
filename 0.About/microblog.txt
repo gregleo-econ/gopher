@@ -1,6 +1,10 @@
 
 ### News ###
 
+## Updated Draft 9/3/22 @academic ##
+
+Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
+
 ## New Website Script 8/22/22 @computing ##
 
 This webpage is now built using an updated script that converts the markdown source to html using regular expression replacements. It also builds the plain text version I serve on my gopher server (Link: gopher://gopher.gregcleo.com:70/).
