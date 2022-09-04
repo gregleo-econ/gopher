@@ -7,7 +7,7 @@ Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction 
 
 ## Updated Draft 8/30/22 @academic ##
 
-PJ Healy and I have updated our working paper: Minimal Experiments (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf).  
+ P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have updated our working paper: Minimal Experiments (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf).  
 
 ## New Website Script 8/22/22 @computing ##
 
@@ -15,7 +15,7 @@ This webpage is now built using an updated script that converts the markdown sou
 
 ## Updated Draft 8/18/22 @academic ##
 
- P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have posted a draft of our new working paper Coarse Belief Elicitation (Link: https://gregcleo.com/3.Working_Papers/CoarseBeliefs.html). In this paper, we look at how to elicit beliefs of the form "What is the probability of event X" when you only need to know which of several ranges that belief is in. 
+ P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have posted a draft of our new working paper Coarse Belief Elicitation (Link: https://gregcleo.com/3.Working_Papers/CoarseBeliefs.html).
 
 ## Updated Draft 8/12/22 @academic ##
 
@@ -23,7 +23,7 @@ Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction 
 
 ## Updated Draft 8/05/22 @academic ##
 
-I have posted an updated draft of Minimal Experiments (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf) joint with P.J. Healy (Link: https://healy.econ.ohio-state.edu/).  
+ P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have updated our working paper: Minimal Experiments (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf).  
 
 ## Subgame Perfect Coalition Formation Published 7/12/22 @academic ##
 
