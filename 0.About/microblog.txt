@@ -1,9 +1,13 @@
 
 ### News ###
 
-## Updated Draft 9/3/22 @academic ##
+## Updated Draft 9/4/22 @academic ##
 
-Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
+Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction in Belief Elicitation (Link: ../3.Working_Papers/Reduction.html).  
+
+## Updated Draft 8/30/22 @academic ##
+
+PJ Healy and I have updated our working paper: Minimal Experiments (Link: https://gregcleo.com/files/Papers/WP_Minimal_Experiments.pdf).  
 
 ## New Website Script 8/22/22 @computing ##
 
@@ -11,11 +15,11 @@ This webpage is now built using an updated script that converts the markdown sou
 
 ## Updated Draft 8/18/22 @academic ##
 
- P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have posted a draft of our new working paper Coarse Belief Elicitation (Link: https://gregcleo.com/2.Working_Papers/CoarseBeliefs.html). In this paper, we look at how to elicit beliefs of the form "What is the probability of event X" when you only need to know which of several ranges that belief is in. 
+ P.J. Healy (Link: https://healy.econ.ohio-state.edu/) and I have posted a draft of our new working paper Coarse Belief Elicitation (Link: https://gregcleo.com/3.Working_Papers/CoarseBeliefs.html). In this paper, we look at how to elicit beliefs of the form "What is the probability of event X" when you only need to know which of several ranges that belief is in. 
 
 ## Updated Draft 8/12/22 @academic ##
 
-Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
+Andrew Dustan, Kristine Koutout and I have updated our working paper: Reduction in Belief Elicitation (Link: ../3.Working_Papers/Reduction.html).  
 
 ## Updated Draft 8/05/22 @academic ##
 
@@ -23,11 +27,11 @@ I have posted an updated draft of Minimal Experiments (Link: https://gregcleo.co
 
 ## Subgame Perfect Coalition Formation Published 7/12/22 @academic ##
 
- Subgame Perfect Coalition Formation (Link: https://gregcleo.com/1.Papers/SPGS.html) joint with Yevgeniy Vorobeychik and Myrna Wooders has been accepted in the Dynamic Games and Applications. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/WP_SPGS.pdf).  
+ Subgame Perfect Coalition Formation (Link: https://gregcleo.com/4.Papers/SPGS.html) joint with Yevgeniy Vorobeychik and Myrna Wooders has been accepted in the Dynamic Games and Applications. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/WP_SPGS.pdf).  
 
 ## Second Order Beliefs and Gender Published 6/20/22 @academic ##
 
- Second Order Beliefs and Gender (Link: https://gregcleo.com/1.Papers/SPGS.html) joint with Kristine Koutout and Andrew Dustan has been accepted in the Journal of Economic Behavior & Organization. The latest version of the paper is available here (Link: https://www.sciencedirect.com/science/article/pii/S0167268122002190?dgcid=author#!).  
+ Second Order Beliefs and Gender (Link: https://gregcleo.com/4.Papers/SPGS.html) joint with Kristine Koutout and Andrew Dustan has been accepted in the Journal of Economic Behavior & Organization. The latest version of the paper is available here (Link: https://www.sciencedirect.com/science/article/pii/S0167268122002190?dgcid=author#!).  
 
 ## New Working Paper 4/30/22 @academic ##
 
@@ -39,15 +43,15 @@ I am now on gopherspace at gopher://gopher.gregcleo.com:70/ (Link: gopher://goph
 
 ## Updated Draft of Subgame Perfect Coalition Formation 10/16/21 @academic ##
 
-I have added an updated working paper Subgame Perfect Coalition Formation (Link: https://gregcleo.com/2.Working_Papers/SPGS.html) (joint with Eugene Vorobeychik and Myrna Wooders).  
+I have added an updated working paper Subgame Perfect Coalition Formation (Link: https://gregcleo.com/3.Working_Papers/SPGS.html) (joint with Eugene Vorobeychik and Myrna Wooders).  
 
 ## New Working Paper 11/4/21, 7:14 PM @academic ##
 
-Andrew Dustan, Kristine Koutout and I have completed a new working paper: Reduction in Belief Elicitation (Link: ../2.Working_Papers/Reduction.html).  
+Andrew Dustan, Kristine Koutout and I have completed a new working paper: Reduction in Belief Elicitation (Link: ../3.Working_Papers/Reduction.html).  
 
 ## Matching Soulmates Published 8/20/21 @academic ##
 
- Matching Soulmates (Link: https://gregcleo.com/1.Papers/Matching_Soulmates.html) has been accepted in the Journal of Public Economic Theory. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/PUB_Matching-Soulmates.pdf).  
+ Matching Soulmates (Link: https://gregcleo.com/4.Papers/Matching_Soulmates.html) has been accepted in the Journal of Public Economic Theory. The latest version of the paper is available here (Link: https://gregcleo.com/files/Papers/PUB_Matching-Soulmates.pdf).  
 
 ## New Website 8/12/21 @computing ##
 
