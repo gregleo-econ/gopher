@@ -13,11 +13,12 @@ Some concepts and formulas from differential calculus will be used, but most of 
 
 There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.  
 
-The TA for this course is Qiao Lin.  
-Qiao's office hours: Tuesdy 10–12 in Calhoun Hall 006  
-Greg's office hours: TBA in Calhoun 404
-
 Class meets T,TH 1:15-2:30 in Wilson Hall 103.  
+
+The TA for this course is Qiao Lin.  
+Qiao's office hours: Tuesday 10–12 in Calhoun Hall 006  
+Greg's office hours: Tuesday 12-1:00 in Calhoun 404
+
 
 ## Course Notes / Textbook ##
 
@@ -28,7 +29,7 @@ The official textbook for this course is Hal Varian's Intermediate Microeconomic
 
 These class notes are a polished version of what I cover in class. 
 
- Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 9/2/2022
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 9/6/2022
 
 ## Problem Sets ##
 
