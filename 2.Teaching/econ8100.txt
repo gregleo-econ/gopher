@@ -37,8 +37,8 @@ My office hours: Thursday 11-12pm in Calhoun 404. TA: Steve Hamilton. Steve's Of
 
 ## Assignments ##
 
-### Exercises from Chapter 2 of Notes Source (Link: ../files/8100/ps_source/ps1.txt). Due 9/7/22. # ###
-### Exercises from Chapter 4,5 of Notes. Due 9/?/22. # ###
+### Exercises from Chapter 2 of Notes Source (Link: ../files/8100/ps_source/ps1.txt). Due 9/7/22.   # ###
+### Exercises from Chapter 4 of Notes. Due 9/22/22.   # ###
 ### Problem Set 3 (Link: ../files/8100/ps3.pdf).  # ###
 ### Problem Set 4 (Link: ../files/8100/ps4.pdf).  # ###
 ### Problem Set 5 (Link: ../files/8100/ps5.pdf).  # ###
