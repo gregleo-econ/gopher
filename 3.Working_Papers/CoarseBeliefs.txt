@@ -11,5 +11,5 @@ Healy, P.J. and Leo, Greg, Coarse Belief Eclicitation
 
 ## Paper ##
 
- Reduction in Belief Elicitation (Link: ../files/Papers/WP_Coarse_Belief_Elicitation.pdf)
+ Coarse Belief Elicitation (Link: ../files/Papers/WP_Coarse_Belief_Elicitation.pdf)
 
