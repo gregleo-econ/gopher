@@ -80,8 +80,8 @@ A2.4 Value Functions. Homogeneous Functions Notes Convexity Notes Theorem of the
 
 2.4 Uncertainty
 
-### Midterm Exam October 21 # ###
-Covers Chapter 1
+### Midterm Exam October 20 # ###
+Covers Chapter 1 of J&R and Chapters 1-7 of Class Notes
 
 ### Week 8: Oct 19,21 # ###
 
