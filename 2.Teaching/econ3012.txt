@@ -89,8 +89,12 @@ Key Concepts For Fall 2022
 
 ## Additional Practice  ##
 
- Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)
- Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf) (Updated 12/15/2021)  
+ Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
+Problems Useful for Midterm:  
+1,2,3,4,7,8,11(a,b,c,d),12,15,16,17,18,19,20,21(a),22(b),25,28(a,c,e)  
+For 20, do not worry too much about the graphing parts.  
+
+ Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf)  
  Copy of Spring 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
 
 
