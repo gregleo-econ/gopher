@@ -57,16 +57,17 @@ Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). 
 
 ### Week 4 (Sept 20) : Demand. # ###
 
-### Week 5 (Sept 27) : Slutsky Equation, Buying and Selling # ###
+### Week 5 (Sept 27) : Slutsky Equation, Buying/Selling, Intertemporal Choice. # ###
 
-### Week 6 (Oct 4) : Buying and Selling, Intertemporal Choice # ###
+### Week 6 (Oct 4) : Market Demand, Equilibrium. # ###
 
-### Week 7 (Oct 11) : Market Demand # ###
+### Week 7 (Oct 11) : Equilibrium, Fall Break # ###
 
 ### Midterm Exam -- Oct 18 # ###
 
 The exam covers material up to and including Market Demand.  
- Key Concepts- Not Yet Updated for Fall 22 (Link: ../files/3010/Key_Concepts_2022_Midterm.pdf).  
+Key Concepts For Fall 2022  
+ Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2022_Fall.pdf).  
 
 ### Week 8 (Oct 18) : Midterm Exam, Equilibrium # ###
 
