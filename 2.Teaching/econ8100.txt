@@ -41,6 +41,7 @@ My office hours: Thursday 11-12pm in Calhoun 404. TA: Steve Hamilton. Steve's Of
 ### Exercises from Chapter 4 of Notes. Due 9/22/22. # ###
 ### Exercises from Chapter 5 of Notes. Due 10/04/22. # ###
 ### Exercises from Chapter 6 of Notes. Due 10/11/22. # ###
+### Solutions for Two Bundle Problem (Link: ../files/8100/SolutionToTwoBundleProblem.pdf) # ###
 ### Exercises from Chapter 7 of Notes. Not Due. # ###
 ### Exercises from Chapter 8 of Notes. TBA. # ###
 
