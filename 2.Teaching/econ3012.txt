@@ -37,8 +37,14 @@ These class notes are a polished version of what I cover in class.
 Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. I encourage working on the homework in groups. The homework will be graded by the teaching assistant. I will add the due dates below as we move through the semester.  
 
  Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). Due: 9/22/2022  
+ Solution Part 1 (Link: ../files/3010/PS1_Solutions_Part_1.pdf)  
+ Solution Part 2 (Link: ../files/3010/PS1_Solutions_Part_1.pdf)  
  Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). Due: 10/04/2022  
+ Solution Part 1 (Link: ../files/3010/PS2_Solutions_Part_1.pdf)  
+ Solution Part 2 (Link: ../files/3010/PS2_Solutions_Part_1.pdf)  
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 10/11/2022  
+ Solution Part 1 (Link: ../files/3010/PS3_Solutions_Part_1.pdf)  
+ Solution Part 2 (Link: ../files/3010/PS3_Solutions_Part_1.pdf)  
 Problem Set 4  
 Problem Set 5  
 Problem Set 6  
