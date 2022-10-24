@@ -45,7 +45,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 10/11/2022  
  Solution Part 1 (Link: ../files/3010/PS3_Solutions_Part_1.pdf)  
  Solution Part 2 (Link: ../files/3010/PS3_Solutions_Part_2.pdf)  
-Problem Set 4  
+ Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 11/3/2022  
 Problem Set 5  
 Problem Set 6  
 
@@ -75,19 +75,19 @@ The exam covers material up to and including Market Demand.
 Key Concepts For Fall 2022  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2022_Fall.pdf).  
 
-### Week 8 (Oct 18) : Midterm Exam, Equilibrium # ###
+### Week 8 (Oct 18) : Midterm Exam, Technology # ###
 
-### Week 9 (Oct 25) : Equilibrium # ###
+### Week 9 (Oct 25) : Cost Minimization # ###
 
-### Week 10 (Nov 1) : Technology, Profit Maximization # ###
+### Week 10 (Nov 1) : Monopoly # ###
 
-### Week 11 (Nov 8) : Cost Minimization, Firm Supply # ###
+### Week 11 (Nov 8) : Monopoly Behavior # ###
 
-### Week 12 (Nov 15) : Industry Supply, Monopoly   # ###
+### Week 12 (Nov 15) : Oligopoly # ###
 
-### Week 13 (Nov 29) : Monopoly Behavior   # ###
+### Week 13 (Nov 29) :  # ###
 
-### Week 14 (Dec 6) : Oligopoly # ###
+### Week 14 (Dec 6) :  # ###
 
 ## Final Exam (Cumulative) Mon Dec 12 9am ##
 
