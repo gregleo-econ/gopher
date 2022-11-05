@@ -21,7 +21,7 @@ Qiao's office hours: Wednesday 10–12 in Calhoun Hall 006
 Greg's office hours: Tuesday 12-1:00 in Calhoun 404
 
 
-## Course Notes / Textbook ##
+## Textbook ##
 
 The official textbook for this course is Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983). Any edition of this textbook should be fine. You will also need a copy of the Workouts in Intermediate Microeconomics (Link: https://wwnorton.com/books/9780393922615). I recommend the latest edition of this book since that is the problem numbering I will use in the problem sets. 
 
@@ -30,7 +30,7 @@ The official textbook for this course is Hal Varian's Intermediate Microeconomic
 
 These class notes are a polished version of what I cover in class. 
 
- Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 10/3/2022
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 11/4/2022
 
 ## Problem Sets ##
 
