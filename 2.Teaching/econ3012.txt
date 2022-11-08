@@ -46,7 +46,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Solution Part 1 (Link: ../files/3010/PS3_Solutions_Part_1.pdf)  
  Solution Part 2 (Link: ../files/3010/PS3_Solutions_Part_2.pdf)  
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 11/3/2022  
-Problem Set 5  
+ Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 11/17/2022  
 Problem Set 6  
 
 ## Schedule ##
