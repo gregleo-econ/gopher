@@ -1,7 +1,7 @@
 
 ### Econ 8100 ###
 
- 8100 (Link: ../files/Images/8100.png)
+This is the course website for Vanderbilt Economics 8100. This is the first course of the PhD microeconomics core sequence. The course will cover the fundamentals of consumer theory, theory of the firm, and simple markets in partial equilibrium. This page will be continuously updated throughout the semester. Please check it on a regular basis. 
 
 ## Notes ##
 
@@ -9,9 +9,6 @@ These notes are a work in progress. I will try to keep them updated as we move t
 
  Notes (Link: ../files/8100/8100notes.pdf) (Updated: 11/4/2022)
 
-## Intro ##
-
-This is the course website for Vanderbilt Economics 8100. This is the first course of the PhD microeconomics core sequence. The course will cover the fundamentals of consumer theory, theory of the firm, and simple markets in partial equilibrium. This page will be continuously updated throughout the semester. Please check it on a regular basis. 
 
 ## Textbook ##
 

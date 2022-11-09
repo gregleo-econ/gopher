@@ -1,10 +1,6 @@
 
 ### Econ 3012 ###
 
- 3012 (Link: ../files/Images/3012.png)
-
-## General Info ##
-
 This is the course website for Vanderbilt Economics 3012. This page will be continuously updated throughout the semester. Please check it regularly.   
 
 3012 focuses on the formal analysis of the behavior of individuals and firms* and how these behaviors aggregate in *markets.  We will analyze market performance and determine how performance is influenced by various changes.  
