@@ -1,11 +1,11 @@
 
 ### About Me / About this Website ###
 
-I am Greg Leo. I work at Vanderbilt University as an Assistant Professor of Economics. I got my PhD from the University of California, Santa Barbara. I work on microeconomic theory and experimental economics. I cycle, speed skate (inline), and hack at various hardware and software things. 
+I am Greg Leo. I work at Vanderbilt University as an Assistant Professor of Economics. I got my PhD from the University of California, Santa Barbara. I work on microeconomic theory and experimental economics. I like to cycle, speed skate, and make things. 
 
 ## About This Webpage ##
 
-I generate this site from a directory of markdown files using a script written in R. The markdown is converted to html using some regex nonsense with the gsub function. When I push the markdown files to Github (Link: https://github.com/), a virtual machine automatically runs my R script to convert the markdown to html and then pushes the resulting html files to a separate Github pages (Link: https://pages.github.com/) repository.  
+I generate this site from a directory of markdown files using a script written in R. The markdown is converted to html using some regex nonsense. When I push the markdown files to Github (Link: https://github.com/), a virtual machine automatically runs my script to convert the markdown to html and then pushes the resulting html files to a separate Github pages (Link: https://pages.github.com/) repository for hosting.
 
 The code and some instructions for setting up your own site like this are available on my R Static Site Generator (Link: https://github.com/gregleo-econ/R-Site-Generator) repository. 
 
