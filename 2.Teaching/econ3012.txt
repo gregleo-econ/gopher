@@ -26,7 +26,7 @@ The official textbook for this course is Hal Varian's Intermediate Microeconomic
 
 These class notes are a polished version of what I cover in class. 
 
- Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 11/15/2022
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 11/22/2022
 
 ## Problem Sets ##
 
