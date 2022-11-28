@@ -26,7 +26,7 @@ The official textbook for this course is Hal Varian's Intermediate Microeconomic
 
 These class notes are a polished version of what I cover in class. 
 
- Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 11/22/2022
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  Last Updated: 11/28/2022
 
 ## Problem Sets ##
 
@@ -43,7 +43,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Solution Part 2 (Link: ../files/3010/PS3_Solutions_Part_2.pdf)  
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 11/3/2022  
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 11/17/2022  
-Problem Set 6  
+ Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due: 12/06/2022  
 
 ## Schedule ##
 
