@@ -46,7 +46,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Solutions to Written Problems (Link: ../files/3010/PS5_Solutions_Part_2.pdf)  
  Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due: 12/06/2022  
  Extra Cournot Practice Problem (Link: ../files/3010/Cournot_Practice.pdf). Not Due  
- Extra Cournot Practice Solution (Link: ../files/3010/Cournot_Practice_Solutions.pdf). Not Due  
+ Solutions to Written Problems (Link: ../files/3010/Cournot_Practice_Solutions.pdf). 
 
 ## Schedule ##
 
