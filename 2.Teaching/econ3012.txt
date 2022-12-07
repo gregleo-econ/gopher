@@ -103,6 +103,7 @@ Problem pages with material not covered this semester: 10 B, 13, 22 (D,E), 26, 3
 
  Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf)  
  Solutions for Spring 2022 Midterm (Link: ../files/3010/2022_Midterm_Solution.pdf)  
+ Solutions for Spring 2022 Final (Link: ../files/3010/2022_Final_Solution.pdf)  
 
 
 
