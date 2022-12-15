@@ -19,12 +19,11 @@ Greg's office hours: TBA
 
 ## Textbook ##
 
-You will also need a copy of the [Workouts in Intermediate
-Microeconomics](https://wwnorton.com/books/9780393922615). Please get the
-latest edition of this book since that is the problem numbering I will use in 
-the problem sets.  
+You will also need a copy of the Workouts in Intermediate Microeconomics (Link: https://wwnorton.com/books/9780393922615).  
+Please get the latest edition of this book since that is the problem numbering I will use in the problem sets.  
 
-The class notes below are the official textbook for the course. Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983) covers very similar material if you want a supplementary textbook. Any edition of this textbook should be fine. 
+The class notes below are the official textbook for the course.  
+Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link: https://wwnorton.com/books/9780393689983) covers very similar material if you want a supplementary textbook. Any edition of this textbook should be fine. 
 
 ## Class Notes  ##
 
@@ -36,13 +35,13 @@ These class notes are a polished version of what I cover in class.
 
 Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. I encourage working on the homework in groups. The homework will be graded by the teaching assistant. I will add the due dates below as we move through the semester.  
 
- Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). Due: 
- Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). Due: 
- Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 
- Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 
- Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 
- Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due: 
- Problem Set 7 (Link: ../files/3010/Cournot_Practice.pdf). Due:
+ Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). Due:  
+ Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). Due:   
+ Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due:   
+ Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due:   
+ Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due:   
+ Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due:   
+ Problem Set 7 (Link: ../files/3010/Cournot_Practice.pdf). Due:  
 
 ## Schedule ##
 
