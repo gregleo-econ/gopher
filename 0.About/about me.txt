@@ -1,7 +1,7 @@
 
-### About Me / About this Website ###
+### About Me ###
 
-I am Greg Leo. I work at Vanderbilt University as an Assistant Professor of Economics. I got my PhD from the University of California, Santa Barbara. I work on microeconomic theory and experimental economics. I like to cycle, speed skate, and make things. 
+I am Greg Leo. I am a designer, developer, and economist. My keyboard layout known as "QAZ" is among the most popular ultra-small mechanical keyboards among enthusiasts. I am also the creator of the ARTSEY.IO (Link: http://artsey.io) one-handed typing system. I do full-stack development in the R language, with a focus on apps for academia. I teach microeconomics at Vanderbilt University and conduct research in microeconomic theory and experimental economics. I am also an accomplished cyclist and former competitive freediver.  
 
 ## About This Webpage ##
 
