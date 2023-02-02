@@ -56,6 +56,7 @@ Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). 
 
 ### Week 3 : Choice. # ###
  PDF of Notes from 1/31 (Link: ../files/3010/raw/Notes_1_31_3012.pdf)  
+ PDF of Notes from 2/02 (Link: ../files/3010/raw/Notes_2_02_3012.pdf)  
 ### Week 4 : Demand. # ###
 
 ### Week 5 : Slutsky Equation, Buying/Selling, Intertemporal Choice. # ###
