@@ -58,11 +58,11 @@ Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). 
 ### Week 4 : Demand, Slutsky Decomposition (2/07,2/09) # ###
  PDF of Notes from 2/07 (Link: ../files/3010/raw/Notes_2_07_3012.pdf)  
  PDF of Notes from 2/09 (Link: ../files/3010/raw/Notes_2_09_3012.pdf)  
-### Week 5 : Buying/Selling, Intertemporal Choice. # ###
+### Week 5 : Buying/Selling, Intertemporal Choice (2/14,2/16) # ###
  PDF of Notes from 2/14 (Link: ../files/3010/raw/Notes_2_14_3012.pdf)  
-### Week 6 : Market Demand, Equilibrium. # ###
+### Week 6 : Market Demand, Equilibrium (2/21,2/23) # ###
 
-### Week 7 : Equilibrium, Fall Break # ###
+### Week 7 : Equilibrium (2/28,3/02) # ###
 
 ### Midterm Exam March 7 # ###
 
@@ -70,7 +70,9 @@ The exam covers material up to and including Market Demand.
 Key Concepts From Fall 2022  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2022_Fall.pdf).  
 
-### Week 8 : Midterm Exam, Technology # ###
+### Week 8 : Midterm Exam, Technology (3/07,3/09) # ###
+
+### Spring Break # ###
 
 ### Week 9 : Cost Minimization # ###
 
