@@ -43,7 +43,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Problem Set 2 Solutions Part 2 (Link: ../files/3010/PS2_Solutions_Part_2.pdf).  
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 3/02/2023  
  Problem Set 3 Solutions Part 2 (Link: ../files/3010/PS3_Solutions_Part_2.pdf).  
- Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 3/28/2023  
+ Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 3/30/2023  
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due:   
  Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due:   
  Problem Set 7 (Link: ../files/3010/Cournot_Practice.pdf). Due:  
@@ -77,11 +77,12 @@ The exam covers material up to and including Market Demand.
 Key Concepts For Spring 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2023_Spring.pdf).  
 
-### Week 8 : Midterm Exam, Technology (3/07,3/09) # ###
+### Week 8 : Midterm Exam # ###
 
 ### Spring Break # ###
 
-### Week 9 : Cost Minimization # ###
+### Week 9 : Technology, Cost Minimization # ###
+ PDF of Notes from 3/21 (Link: ../files/3010/raw/Notes_3_21_3012.pdf)  
 
 ### Week 10 : Monopoly # ###
 
