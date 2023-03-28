@@ -81,12 +81,13 @@ Key Concepts For Spring 2023
 
 ### Spring Break # ###
 
-### Week 9 : Technology, Cost Minimization # ###
+### Week 9 : Technology # ###
  PDF of Notes from 3/21 (Link: ../files/3010/raw/Notes_3_21_3012.pdf)  
  PDF of Notes from 3/23 (Link: ../files/3010/raw/Notes_3_23_3012.pdf)  
-### Week 10 : Monopoly # ###
+### Week 10 : Cost Minimization/Profit Maximization # ###
+ PDF of Notes from 3/28 (Link: ../files/3010/raw/Notes_3_28_3012.pdf)  
 
-### Week 11 : Monopoly Behavior # ###
+### Week 11 : Monopoly,Monopoly Behavior # ###
 
 ### Week 12 : Oligopoly # ###
 
