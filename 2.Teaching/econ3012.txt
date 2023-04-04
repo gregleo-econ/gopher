@@ -78,6 +78,7 @@ Key Concepts For Spring 2023
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2023_Spring.pdf).  
 
 ### Week 8 : Midterm Exam # ###
+ Solution (Link: ../files/3010/Midterm_Spring_2023_Solution.pdf)  
 
 ### Spring Break # ###
 
@@ -88,6 +89,7 @@ Key Concepts For Spring 2023
  PDF of Notes from 3/28 (Link: ../files/3010/raw/Notes_3_28_3012.pdf)  
 
 ### Week 11 : Monopoly,Monopoly Behavior # ###
+ PDF of Notes from 4/4 (Link: ../files/3010/raw/Notes_4_4_3012.pdf)  
 
 ### Week 12 : Oligopoly # ###
 
