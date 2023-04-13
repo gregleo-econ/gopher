@@ -44,8 +44,8 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 3/02/2023  
  Problem Set 3 Solutions Part 2 (Link: ../files/3010/PS3_Solutions_Part_2.pdf).  
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 3/30/2023  
- Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 4/17/2023  
- Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due:     
+ Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 4/18/2023  
+ Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due: For Practice. Not Due.  
 
 ## Schedule ##
 
@@ -94,6 +94,7 @@ Key Concepts For Spring 2023
 
 ### Week 12 : Oligopoly # ###
  PDF of Notes from 4/11 (Link: ../files/3010/raw/Notes_4_11_3012.pdf)  
+ PDF of Notes from 4/13 (Link: ../files/3010/raw/Notes_4_13_3012.pdf)  
 
 ### Week 13 : Review # ###
 
