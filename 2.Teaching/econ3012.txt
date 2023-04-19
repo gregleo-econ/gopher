@@ -36,16 +36,23 @@ These class notes are a polished version of what I cover in class.
 Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. I encourage working on the homework in groups. The homework will be graded by the teaching assistant. I will add the due dates below as we move through the semester.  
 
  Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). Due: 2/07/2023  
- Problem Set 1 Solutions Part 1 (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
- Problem Set 1 Solutions Part 2 (Link: ../files/3010/PS1_Solutions_Part_2.pdf).  
+ Solutions (Link: ../files/3010/PS1_Solutions_Part_2.pdf).  
+ Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
  Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). Due: 2/16/2023  
- Problem Set 1 Solutions Part 1 (Link: ../files/3010/PS2_Solutions_Part_1.pdf).  
- Problem Set 2 Solutions Part 2 (Link: ../files/3010/PS2_Solutions_Part_2.pdf).  
+ Solutions (Link: ../files/3010/PS2_Solutions_Part_2.pdf).  
+ Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 3/02/2023  
- Problem Set 3 Solutions Part 2 (Link: ../files/3010/PS3_Solutions_Part_2.pdf).  
+ Solutions (Link: ../files/3010/PS3_Solutions_Part_2.pdf).  
+ Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 3/30/2023  
+ Solutions (Link: ../files/3010/PS4_Solutions_Part_2.pdf).  
+ Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 4/18/2023  
- Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). Due: For Practice. Not Due.  
+ Solutions (Link: ../files/3010/PS5_Solutions_Part_2.pdf).  
+ Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
+ Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). For Practice. Not Due.  
+ Solutions (Link: ../files/3010/PS6_Solutions_Part_2.pdf).  
+ Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
 
 ## Schedule ##
 
@@ -99,14 +106,13 @@ Key Concepts For Spring 2023
 ### Week 13 : Review # ###
 
 ## Final Exam (Cumulative) April 28, 3PM ##
-Key Concepts From Fall 2022  
- Key Concepts (Link: ../files/3010/Key_Concepts_Final_2022_Fall.pdf).
+Key Concepts For Fall 2023  
+ Key Concepts (Link: ../files/3010/Key_Concepts_Fall_2023.pdf).
 
 ## Additional Practice  ##
 
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
-Problem pages with material relevant for the midterm: 1,2,3,4,7 (except F),11,12,15,16,17,18,19,20,21(A),22(B,C),25,28(A,C,E)  
-Problem pages with material not covered this semester: 10 B, 13, 22 (D,E), 26, 28 (B,D), 30.  
+Problem pages with material not covered this semester: 9, 10, 13, 14, 22 (D,E), 26, 28 (B,D), 29, 30.  
  Copy of Spring 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
  Copy of Spring 2022 Final (Link: ../files/3010/2022_Final.pdf)  
  Copy of Fall 2022 Midterm (Link: ../files/3010/2022_Fall_Midterm.pdf)  
