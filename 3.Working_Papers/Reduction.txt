@@ -1,5 +1,5 @@
 
-### Reduction in Belief Elicitation (New) ###
+### Reduction in Belief Elicitation ###
 
 ## Abstract ##
 

@@ -1,5 +1,5 @@
 
-### Coarse Belief Elicitation (New) ###
+### Coarse Belief Elicitation ###
 
 ## Abstract ##
 
