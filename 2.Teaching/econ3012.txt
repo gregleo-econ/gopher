@@ -82,6 +82,7 @@ Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). 
 The exam covers material up to and including Market Demand.  
 Key Concepts For Spring 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2023_Spring.pdf).  
+ Midterm Copy with Solutions (Link: ../files/3010/Midterm_Spring_2023_Solution.pdf).  
 
 ### Week 8 : Midterm Exam # ###
  Solution (Link: ../files/3010/Midterm_Spring_2023_Solution.pdf)  
