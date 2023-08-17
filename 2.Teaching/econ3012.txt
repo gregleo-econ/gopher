@@ -11,10 +11,9 @@ There will be one midterm and a final exam. They are tentatively placed in the s
 
 Class meets 9:30-10:45 in Furman 311.  
 
-The TA for this course is Qiao Lin--
- Email (Link: mailto:qiaohairuo.lin@Vanderbilt.edu)  
+The TA for this course is Katherine Parslow--
+ Email (Link: mailto:katherine.r.parslow@vanderbilt.edu)  
 Qiao's office hours: Wednesday 10-12  
- Qiao's Zoom (Link: https://vanderbilt.zoom.us/j/8238830135)  
 Greg's office hours: Tuesday 11-12 Calhoun 404.  
 
 ## Textbook ##
@@ -35,78 +34,41 @@ These class notes are a polished version of what I cover in class.
 
 Problem sets will consist of selections from problems in the workouts book, as well as problems I have written. I encourage working on the homework in groups. The homework will be graded by the teaching assistant. I will add the due dates below as we move through the semester.  
 
- Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). Due: 2/07/2023  
- Solutions (Link: ../files/3010/PS1_Solutions_Part_2.pdf).  
- Workout Solutions (Link: ../files/3010/PS1_Solutions_Part_1.pdf).  
- Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). Due: 2/16/2023  
- Solutions (Link: ../files/3010/PS2_Solutions_Part_2.pdf).  
- Workout Solutions (Link: ../files/3010/PS2_Solutions_Part_1.pdf).  
- Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Due: 3/02/2023  
- Solutions (Link: ../files/3010/PS3_Solutions_Part_2.pdf).  
- Workout Solutions (Link: ../files/3010/PS3_Solutions_Part_1.pdf).  
- Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf). Due: 3/30/2023  
- Solutions (Link: ../files/3010/PS4_Solutions_Part_2.pdf).  
- Workout Solutions (Link: ../files/3010/PS4_Solutions_Part_1.pdf).  
- Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf). Due: 4/18/2023  
- Solutions (Link: ../files/3010/PS5_Solutions_Part_2.pdf).  
- Workout Solutions (Link: ../files/3010/PS5_Solutions_Part_1.pdf).  
- Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf). (This material will not be on the exam)
- Solutions (Link: ../files/3010/PS6_Solutions_Part_2.pdf).  
- Workout Solutions (Link: ../files/3010/PS6_Solutions_Part_1.pdf).  
+ Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf).  
+ Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf).  
+ Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf).  
+ Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  
+ Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf).  
+ Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf).  
 
 ## Schedule ##
 
-### Week 0 : Overview of Syllabus & Budget Constraint (1/10,1/12) # ###
+### Week 0 : Overview of Syllabus & Budget Constraint  # ###
 
-### Week 1 : Budget Constraint, Preferences (1/17,1/19) # ###
+### Week 1 : Budget Constraint, Preferences  # ###
 Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). If this stuff is familiar to you, you are probably good-to-go for the class. Otherwise (don't panic), you should talk to me or Qiao about what you can do to review the math you will need for the course. 
 
-### Week 2 : Preferences, Utility (1/24,1/26) # ###
+### Week 2 : Preferences, Utility  # ###
 
-### Week 3 : Choice (1/31,2/02) # ###
- PDF of Notes from 1/31 (Link: ../files/3010/raw/Notes_1_31_3012.pdf)  
- PDF of Notes from 2/02 (Link: ../files/3010/raw/Notes_2_02_3012.pdf)  
-### Week 4 : Demand, Slutsky Decomposition (2/07,2/09) # ###
- PDF of Notes from 2/07 (Link: ../files/3010/raw/Notes_2_07_3012.pdf)  
- PDF of Notes from 2/09 (Link: ../files/3010/raw/Notes_2_09_3012.pdf)  
-### Week 5 : Buying/Selling, Intertemporal Choice (2/14,2/16) # ###
- PDF of Notes from 2/14 (Link: ../files/3010/raw/Notes_2_14_3012.pdf)  
- PDF of Notes from 2/16 (Link: ../files/3010/raw/Notes_2_16_3012.pdf)  
-### Week 6 : Market Demand, Equilibrium (2/21,2/23) # ###
- PDF of Notes from 2/21 (Link: ../files/3010/raw/Notes_2_21_3012.pdf)  
- PDF of Notes from 2/23 (Link: ../files/3010/raw/Notes_2_23_3012.pdf)  
-### Week 7 : Equilibrium (2/28,3/02) # ###
-
-### Midterm Exam March 7 # ###
+### Week 3 : Choice  # ###
+### Week 4 : Demand, Slutsky Decomposition  # ###
+### Week 5 : Buying/Selling, Intertemporal Choice  # ###
+### Week 6 : Market Demand, Equilibrium  # ###
+### Week 7 : Equilibrium  # ###
+### Midterm Exam  # ###
 
 The exam covers material up to and including Market Demand.  
 Key Concepts For Spring 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2023_Spring.pdf).  
- Midterm Copy with Solutions (Link: ../files/3010/Midterm_Spring_2023_Solution.pdf).  
 
 ### Week 8 : Midterm Exam # ###
- Solution (Link: ../files/3010/Midterm_Spring_2023_Solution.pdf)  
-
-### Spring Break # ###
-
+### Fall Break # ###
 ### Week 9 : Technology # ###
- PDF of Notes from 3/21 (Link: ../files/3010/raw/Notes_3_21_3012.pdf)  
- PDF of Notes from 3/23 (Link: ../files/3010/raw/Notes_3_23_3012.pdf)  
 ### Week 10 : Cost Minimization/Profit Maximization # ###
- PDF of Notes from 3/28 (Link: ../files/3010/raw/Notes_3_28_3012.pdf)  
-
 ### Week 11 : Monopoly,Monopoly Behavior # ###
- PDF of Notes from 4/4 (Link: ../files/3010/raw/Notes_4_4_3012.pdf)  
- PDF of Notes from 4/6 (Link: ../files/3010/raw/Notes_4_6_3012.pdf)  
-
-
 ### Week 12 : Oligopoly # ###
- PDF of Notes from 4/11 (Link: ../files/3010/raw/Notes_4_11_3012.pdf)  
- PDF of Notes from 4/13 (Link: ../files/3010/raw/Notes_4_13_3012.pdf)  
-
 ### Week 13 : Review # ###
-
-## Final Exam (Cumulative) April 28, 3PM ##
+## Final Exam (Cumulative)  ##
 Key Concepts For Spring 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Spring_2023.pdf).
 
@@ -117,14 +79,11 @@ Problem pages with material not covered this semester: 9, 10, 13, 14, 22 (D,E), 
  Copy of Spring 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
  Copy of Spring 2022 Final (Link: ../files/3010/2022_Final.pdf)  
  Copy of Fall 2022 Midterm (Link: ../files/3010/2022_Fall_Midterm.pdf)  
-
+ Copy Spring 2023 Midterm (Link: ../files/3010/Midterm_Spring_2023_Solution.pdf).  
 ## Selected Solutions  for Additional Practice  ##
 
  Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf)  
  Solutions for Spring 2022 Midterm (Link: ../files/3010/2022_Midterm_Solution.pdf)  
  Solutions for Spring 2022 Final (Link: ../files/3010/2022_Final_Solution.pdf)  
  Solutions for Fall 2022 Midterm (Link: ../files/3010/2022_Fall_Midterm_Solution.pdf)  
-
-
-
 
