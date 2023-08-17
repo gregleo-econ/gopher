@@ -9,11 +9,11 @@ Some concepts and formulas from differential calculus will be used, but most of 
 
 There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.  
 
-Class meets 9:30-10:45 in Furman 311.  
+Class meets 1:15-2:30 in Buttrick 205.  
 
 The TA for this course is Katherine Parslow--
  Email (Link: mailto:katherine.r.parslow@vanderbilt.edu)  
-Qiao's office hours: Wednesday 10-12  
+Katherine's office hours: Wednesday 1-2:30 Calhoun 408.  
 Greg's office hours: Tuesday 11-12 Calhoun 404.  
 
 ## Textbook ##
@@ -43,13 +43,12 @@ Problem sets will consist of selections from problems in the workouts book, as w
 
 ## Schedule ##
 
-### Week 0 : Overview of Syllabus & Budget Constraint  # ###
+### Week 0 : Overview of Syllabus & Budget Constraint (8/24)   # ###
 
-### Week 1 : Budget Constraint, Preferences  # ###
-Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). If this stuff is familiar to you, you are probably good-to-go for the class. Otherwise (don't panic), you should talk to me or Qiao about what you can do to review the math you will need for the course. 
+### Week 1 : Budget Constraint, Preferences (8/29-8/31)   # ###
+Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). If this stuff is familiar to you, you are probably good-to-go for the class. Otherwise (don't panic), you should talk to me or Katherine about what you can do to review the math you will need for the course. 
 
 ### Week 2 : Preferences, Utility  # ###
-
 ### Week 3 : Choice  # ###
 ### Week 4 : Demand, Slutsky Decomposition  # ###
 ### Week 5 : Buying/Selling, Intertemporal Choice  # ###

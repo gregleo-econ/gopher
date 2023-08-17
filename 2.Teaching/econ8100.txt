@@ -5,51 +5,40 @@ This is the course website for Vanderbilt Economics 8100. This is the first cour
 
 ## Notes ##
 
-These notes are a work in progress. I will try to keep them updated as we move through the class.
+These notes serve as the official textbook for the course. They will also be updated throughout the semester with new content.  
+ Notes (Link: ../files/8100/8100notes.pdf) (Last Updated: 8/17/2023)
 
- Notes (Link: ../files/8100/8100notes.pdf) (Updated: 11/4/2022)
 
-
-## Textbook ##
-
-Main textbook: Advanced Microeconomic Theory (Link: https://www.amazon.com/Advanced-Microeconomic-Theory-Geoffrey-Jehle/dp/0273731912), Geoffrey Jehle and Philip Reny.  
-Secondary textbook: Microeconomic Theory (Link: https://www.amazon.com/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401), Andreu Mas-Colell, Michael D. Whinston, Jerry R. Green.
+## Supplementary Textbooks ##
+Here are some textbooks I like.  
+ Advanced Microeconomic Theory (Link: https://www.amazon.com/Advanced-Microeconomic-Theory-Geoffrey-Jehle/dp/0273731912), Geoffrey Jehle and Philip Reny.  
+ Microeconomic Theory (Link: https://www.amazon.com/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401), Andreu Mas-Colell, Michael D. Whinston, Jerry R. Green.
 
 ## Problem Sets ##
 
 There will be an assignment roughly each week. Problems will be added to the schedule about two weeks before the assignment is due. You must type your homework. This is the perfect time for you to learn to type in LaTeX. There are many online resources (Link: https://learnxinyminutes.com/docs/latex/) for learning LaTeX. One particularly easy way to get started with LaTeX is through the very user-friendly editor called Lyx (Link: lyx.org). There will be a learning curve at first. Embrace it. This is an investment.
-
-## Class ##
-
-9:35-10:50 in Calhoun 413B.
-
-## Exams and Grading   ##
-
-There will be one midterms and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on midterm exam, 50% on the final exam, and 20% on homework.
-
-## Office Hours / Teaching Assistant ##
-
-My office hours: Thursday 11-12pm in Calhoun 404. TA: Steve Hamilton. Steve's Office Hours: Friday from 12:00-2:00 PM in Calhoun 209.
-
-
-## Assignments ##
-
 ### Exercises from Chapter 2 of Notes Source (Link: ../files/8100/ps_source/ps1.txt). Due 9/7/22. # ###
 ### Exercises from Chapter 4 of Notes. Due 9/22/22. # ###
 ### Exercises from Chapter 5 of Notes. Due 10/04/22. # ###
 ### Exercises from Chapter 6 of Notes. Due 10/11/22.   # ###
- Solution (Link: ../files/8100/SolutionToTwoBundleProblem.pdf)
 ### Exercises from Chapter 7 of Notes. Not Due. # ###
 ### Exercises from Chapter 8 of Notes. Due 11/03/22. # ###
 ### Exercises from Chapter 9,10 of Notes. Due 11/17/22. # ###
 
+## Class ##
+9:30-10:45 in Calhoun 209.
+
+## Exams and Grading   ##
+There will be one midterms and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on midterm exam, 50% on the final exam, and 20% on homework.
+
+## Office Hours / Teaching Assistant ##
+My office hours: Thursday 11-12pm in Calhoun 404. TA: Steve Hamilton. Steve's Office Hours: Friday from 12:00-2:00 PM in Calhoun 209.
+
+## Assignments ##
 ## Important Dates ##
-
 ###  Oct 14: Fall Break-- No Class # ###
-
 ### Oct 20: Midterm Exam # ###
 Covers Chapter 1 of J&R and Chapters 1-7 of Class Notes
-
 ### December 13 (9am-11am): Final Exam # ###
 
 ## Other Resources ##
