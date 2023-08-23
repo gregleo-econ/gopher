@@ -1,7 +1,16 @@
 
 ### About Me ###
 
-I am Greg Leo. I develop and direct HIVE Research (Link: http://econhive.com). I teach microeconomics at Vanderbilt University and conduct research in microeconomic theory and experimental economics. I am the co-creator of the popular minimalist computer keyboard known as "QAZ" and creator of the ARTSEY.IO (Link: http://artsey.io) one-handed typing system.
+I am Greg Leo. 
+
+Academics  
+I develop and direct HIVE Research (Link: http://econhive.com). I teach microeconomics at Vanderbilt University and conduct research in microeconomic theory and experimental economics.  
+
+Software Development  
+I develop web applicaations using JS Vue and R.  
+
+Product Design  
+I design watches under the brand name Cron. I am the co-creator of the popular minimalist computer keyboard known as "QAZ" and creator of the ARTSEY.IO (Link: http://artsey.io) one-handed typing system.  
 
 ## About This Webpage ##
 
