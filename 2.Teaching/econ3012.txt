@@ -44,10 +44,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ## Schedule ##
 
 ### Week 0 : Overview of Syllabus & Budget Constraint (8/24)   # ###
-
 ### Week 1 : Budget Constraint, Preferences (8/29-8/31)   # ###
-Please Read: Review of Functions (Link: ../files/3010/MathReviewFunctions.pdf). If this stuff is familiar to you, you are probably good-to-go for the class. Otherwise (don't panic), you should talk to me or Katherine about what you can do to review the math you will need for the course. 
-
 ### Week 2 : Preferences, Utility  # ###
 ### Week 3 : Choice  # ###
 ### Week 4 : Demand, Slutsky Decomposition  # ###
