@@ -17,7 +17,7 @@ Here are some textbooks I like.
 ## Problem Sets ##
 
 There will be an assignment roughly each week. Problems will be added to the schedule about two weeks before the assignment is due. You must type your homework. This is the perfect time for you to learn to type in LaTeX. There are many online resources (Link: https://learnxinyminutes.com/docs/latex/) for learning LaTeX. One particularly easy way to get started with LaTeX is through the very user-friendly editor called Lyx (Link: lyx.org). There will be a learning curve at first. Embrace it. This is an investment.
-### Exercises from Chapter 2 of Notes Source (Link: ../files/8100/ps_source/ps1.txt).   # ###
+### Exercises from Chapter 2 of Notes.   # ###
 ### Exercises from Chapter 4 of Notes.   # ###
 ### Exercises from Chapter 5 of Notes.   # ###
 ### Exercises from Chapter 6 of Notes.   # ###
@@ -37,8 +37,8 @@ TA: Steve Hamilton. Steve's Office Hours: Friday from 11:30-1:30 PM in Calhoun 4
 
 ## Assignments ##
 ## Important Dates ##
-###  Oct 14: Fall Break-- No Class # ###
-### Oct 20: Midterm Exam # ###
+###  Oct 19: Fall Break-- No Class # ###
+### Oct TBA: Midterm Exam # ###
 Covers Chapter 1 of J&R and Chapters 1-7 of Class Notes
 ### December 13 (9am-11am): Final Exam # ###
 
