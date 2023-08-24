@@ -35,7 +35,9 @@ There will be one midterms and a final exam. They are tentatively placed in the 
 My office hours: Thursday 11-12pm in Calhoun 404.  
 TA: Steve Hamilton. Steve's Office Hours: Friday from 11:30-1:30 PM in Calhoun 408.
 
-## Assignments ##
+## Rendered Raw Lecture Notes ##
+ 8/24 (Link: ../files/8100/Lectures_2023/8_24.pdf)  
+
 ## Important Dates ##
 ###  Oct 19: Fall Break-- No Class # ###
 ### Oct TBA: Midterm Exam # ###
