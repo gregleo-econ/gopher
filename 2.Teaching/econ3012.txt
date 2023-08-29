@@ -63,9 +63,12 @@ Key Concepts For Spring 2023
 ### Week 11 : Monopoly,Monopoly Behavior # ###
 ### Week 12 : Oligopoly # ###
 ### Week 13 : Review # ###
-## Final Exam (Cumulative) December 12 9am ##
+### Final Exam (Cumulative) December 12 9am # ###
 Key Concepts For Spring 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Spring_2023.pdf).
+
+## Rendered Raw Lecture Notes ##
+ 8/24 (Link: ../files/3012/Lectures_2023/8_24.pdf)    
 
 ## Old Exams / Additional Practice ##
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
