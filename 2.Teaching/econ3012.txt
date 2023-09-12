@@ -72,6 +72,7 @@ Key Concepts For Spring 2023
  8/29 (Link: ../files/3010/Lectures_2023/8_29.pdf)  
  9/05 (Link: ../files/3010/Lectures_2023/9_5.pdf)  
  9/07 (Link: ../files/3010/Lectures_2023/9_7.pdf)  
+ 9/12 (Link: ../files/3010/Lectures_2023/9_12.pdf)  
 
 ## Old Exams / Additional Practice ##
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
