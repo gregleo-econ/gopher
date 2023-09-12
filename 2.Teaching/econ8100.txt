@@ -18,7 +18,8 @@ Here are some textbooks I like.
 
 There will be an assignment roughly each week. Problems will be added to the schedule about two weeks before the assignment is due. You must type your homework. This is the perfect time for you to learn to type in LaTeX. There are many online resources (Link: https://learnxinyminutes.com/docs/latex/) for learning LaTeX. One particularly easy way to get started with LaTeX is through the very user-friendly editor called Lyx (Link: lyx.org). There will be a learning curve at first. Embrace it. This is an investment.
 ### Exercises from Chapter 2 of Notes.  (Due 9/19)   # ###
-### Exercises from Chapter 4 of Notes.   # ###
+### Exercises from Chapter 3 of Notes. (Not Due)   # ###
+### Exercises from Chapter 4 of Notes.  (Due 9/21)     # ###
 ### Exercises from Chapter 5 of Notes.   # ###
 ### Exercises from Chapter 6 of Notes.   # ###
 ### Exercises from Chapter 7 of Notes.   # ###
