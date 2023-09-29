@@ -48,7 +48,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ### Week 2 : Preferences, Utility. 9/05 (Link: ../files/3010/Lectures_2023/9_5.pdf), 9/07 (Link: ../files/3010/Lectures_2023/9_7.pdf)   # ###
 ### Week 3 : Choice. 9/12 (Link: ../files/3010/Lectures_2023/9_12.pdf), 9/14 (Link: ../files/3010/Lectures_2023/9_14.pdf) # ###
 ### Week 4 : Demand, Slutsky Decomposition. 9/19 (Lecture on Board, See Notes), 9/21 (Link: ../files/3010/Lectures_2023/9_21.pdf)   # ###
-### Week 5 : Buying/Selling, Intertemporal Choice. 9/26 (Link: ../files/3010/Lectures_2023/9_26.pdf)   # ###
+### Week 5 : Buying/Selling, Intertemporal Choice. 9/26 (Link: ../files/3010/Lectures_2023/9_26.pdf) 9/28 (Link: ../files/3010/Lectures_2023/9_28.pdf)     # ###
 ### Week 6 : Market Demand, Equilibrium.  # ###
 ### Week 7 : Equilibrium.  # ###
 ### Week 8 : Midterm Exam (October 12)  # ###
