@@ -54,8 +54,8 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ### Week 8 : Midterm Exam (October 12)  # ###
 
 The exam covers material up to and including Market Demand.  
-Key Concepts For Spring 2023  
- Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2023_Spring.pdf).  
+Key Concepts For Fall 2023  
+ Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2023_Fall.pdf).  
 
 ### Fall Break (October 19) # ###
 ### Week 9 : Technology # ###
@@ -69,7 +69,7 @@ Key Concepts For Spring 2023
 
 ## Old Exams / Additional Practice ##
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
-(Problem pages with material not covered this semester: 9, 10, 13, 14, 22 (D,E), 26, 28 (B,D), 29, 30, 31.)  
+Pages With Some Questions Relevant to the Fall 2023 Midterm: 1,2,3,4,6,11,12,15,16,17,18,19,20,25
  Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf)  
  Copy of Spring 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
  Solutions for Spring 2022 Final (Link: ../files/3010/2022_Final_Solution.pdf)  
