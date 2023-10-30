@@ -28,7 +28,7 @@ Hal Varian's Intermediate Microeconomics with Calculus: A Modern Approach (Link:
 
 These class notes are a polished version of what I cover in class.  
 
- Class Notes (Link: ../files/3010/3012_Notes.pdf)  
+ Class Notes (Link: ../files/3010/3012_Notes.pdf)  (Updated 10/30 with Equilibrium Graphs)  
 
 ## Problem Sets ##
 
