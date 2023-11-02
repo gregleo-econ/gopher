@@ -59,7 +59,7 @@ Key Concepts For Fall 2023
 
 ### Fall Break (October 19) # ###
 ### Week 9 : Technology. 10/24 (Link: ../files/3010/Lectures_2023/10_24.pdf), 10/26 (Link: ../files/3010/Lectures_2023/10_26.pdf)     # ###
-### Week 10 : Cost Minimization/Profit Maximization # ###
+### Week 10 : Cost Minimization/Profit Maximization 10/31 (Link: ../files/3010/Lectures_2023/10_31.pdf), 11/2 (Link: ../files/3010/Lectures_2023/11_2.pdf)     # ###
 ### Week 11 : Monopoly,Monopoly Behavior # ###
 ### Week 12 : Oligopoly # ###
 ### Week 13 : Review # ###
