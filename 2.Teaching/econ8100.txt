@@ -6,7 +6,7 @@ This is the course website for Vanderbilt Economics 8100. This is the first cour
 ## Notes ##
 
 These notes serve as the official textbook for the course. They will also be updated throughout the semester with new content.  
- Notes (Link: ../files/8100/8100notes.pdf) (Last Updated: 9/27/2023)
+ Notes (Link: ../files/8100/8100notes.pdf) (Last Updated: 10/06/2023)
 
 
 ## Supplementary Textbooks ##
