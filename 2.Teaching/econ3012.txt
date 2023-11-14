@@ -61,7 +61,7 @@ Key Concepts For Fall 2023
 ### Week 9 : Technology. 10/24 (Link: ../files/3010/Lectures_2023/10_24.pdf), 10/26 (Link: ../files/3010/Lectures_2023/10_26.pdf)     # ###
 ### Week 10 : Cost Minimization/Profit Maximization 10/31 (Link: ../files/3010/Lectures_2023/10_31.pdf), 11/2 (Link: ../files/3010/Lectures_2023/11_2.pdf)     # ###
 ### Week 11 : Monopoly,Monopoly Behavior 11/7 (Link: ../files/3010/Lectures_2023/11_7.pdf), 11/9 (Link: ../files/3010/Lectures_2023/11_9.pdf)     # ###
-### Week 12 : Oligopoly # ###
+### Week 12 : Oligopoly 11/14 (Link: ../files/3010/Lectures_2023/11_14.pdf), 11/16 (Link: ../files/3010/Lectures_2023/11_16.pdf)     # ###
 ### Week 13 : Review # ###
 ### Final Exam (Cumulative) December 12 3pm # ###
 Key Concepts For Spring 2023  
