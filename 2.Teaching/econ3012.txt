@@ -39,8 +39,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf).  (Due 10/5) Solutions (Link: ../files/3010/Problem_Set_3_Solutions.pdf).     
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  (Due 11/7)  Solutions (Link: ../files/3010/Problem_Set_4_Solutions.pdf).  
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf).  (Due 11/30)  
- Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf).  (For Practice)  
- Problem Set 7 (Link: ../files/3010/Problem_Set_7.pdf).  (For Practice)  
+ Problem Set 6 (Link: ../files/3010/Problem_Set_6.pdf).  (For Practice)    
 
 ## Schedule ##
 
@@ -63,9 +62,9 @@ Key Concepts For Fall 2023
 ### Week 10 : Cost Minimization/Profit Maximization 10/31 (Link: ../files/3010/Lectures_2023/10_31.pdf), 11/2 (Link: ../files/3010/Lectures_2023/11_2.pdf)     # ###
 ### Week 11 : Monopoly,Monopoly Behavior 11/7 (Link: ../files/3010/Lectures_2023/11_7.pdf), 11/9 (Link: ../files/3010/Lectures_2023/11_9.pdf)     # ###
 ### Week 12 : Oligopoly, Externalities 11/14 (Link: ../files/3010/Lectures_2023/11_14.pdf), 11/16 (Link: ../files/3010/Lectures_2023/11_16.pdf)     # ###
-### Week 13 : General Equilibrium 11/28 (Link: ../files/3010/Lectures_2023/11_28.pdf)     # ###
+### Week 13/14 : General Equilibrium 11/28 (Link: ../files/3010/Lectures_2023/11_28.pdf), 12/5 (Link: ../files/3010/Lectures_2023/12_5.pdf)         # ###
 ### Final Exam (Cumulative) December 12 3pm # ###
-Key Concepts For Spring 2023  
+Key Concepts For Fall 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Fall_2023.pdf).
 
 ## Old Exams / Additional Practice ##
