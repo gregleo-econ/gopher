@@ -24,8 +24,7 @@ There will be an assignment roughly each week. Problems will be added to the sch
 ### Exercises from Chapters 6,7 of Notes.  (Due 11/2)  Select Solutions (Link: ../files/8100/ch6_7_solutions.pdf)   # ###
 ### Exercises from Chapter 8 of Notes.  (Due 11/16)   # ###
 ### Exercises from Chapter 10 of Notes. (Due 11/28)   # ###
-### Exercises from Chapter 12 of Notes. (For Pratice)   # ###
-### Exercises from Chapter 13 of Notes. (For Practice)   # ###
+### Exercises from Chapter 12,13 of Notes. (For Pratice)  Select Solutions (Link: ../files/8100/ch12_13_solutions.pdf)   # ###
 
 ## Class ##
 T/Th 9:30-10:45 in Calhoun 209.
