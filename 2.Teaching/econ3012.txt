@@ -66,7 +66,7 @@ Key Concepts For Fall 2023
 ### Week 13 : General Equilibrium 11/28 (Link: ../files/3010/Lectures_2023/11_28.pdf)     # ###
 ### Final Exam (Cumulative) December 12 3pm # ###
 Key Concepts For Spring 2023  
- Key Concepts (Link: ../files/3010/Key_Concepts_Spring_2023.pdf).
+ Key Concepts (Link: ../files/3010/Key_Concepts_Fall_2023.pdf).
 
 ## Old Exams / Additional Practice ##
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
