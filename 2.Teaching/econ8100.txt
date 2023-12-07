@@ -43,9 +43,8 @@ TA: Steve Hamilton. Steve's Office Hours: Friday from 11:30-1:30 PM in Calhoun 4
 ###  Oct 19: Fall Break-- No Class # ###
 ### Oct 17: Midterm Exam # ###
 Covers Chapters 1-6 of Class Notes  
- Key Topics (Link: ../files/8100/keytopics_2023_midterm.pdf)  
-
 ### December 13 (9am-11am): Final Exam # ###
+ Key Topics (Link: ../files/8100/keytopics_2023.pdf)  
 
 ## Other Resources ##
  Workout Problems for Practice (Link: https://econ.ucsb.edu/~tedb/Courses/GraduateTheoryUCSB/workouts.pdf)  
