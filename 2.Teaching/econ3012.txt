@@ -70,7 +70,7 @@ Key Concepts For Fall 2023
 
 ## Old Exams / Additional Practice ##
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
-Pages With Some Questions Relevant to the Fall 2023 Midterm: 1,2,3,4,6,11,12,15,16,17,18,19,20,25
+Questions with material not covered in key topics for Fall 2023: 4(C,D), 9, 12(D,E), 13, 18(D,E), 26, 27(A), 28(B,D), 29(E), 30  
  Selected Solutions for Practice Problems (Link: ../files/3010/PracticeProblemSolutions.pdf)  
  Copy of Spring 2022 Midterm (Link: ../files/3010/2022_Midterm.pdf)  
  Solutions for Spring 2022 Midterm (Link: ../files/3010/2022_Midterm_Solution.pdf)  
