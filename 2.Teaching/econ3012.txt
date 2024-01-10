@@ -43,7 +43,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
 
 ## Schedule ##
 
-### Week 0 : Overview of Syllabus & Budget Constraint. # ###
+### Week 0 : Overview of Syllabus & Budget Constraint. Notes from 1/10 (Link: ../files/3010/Lectures_2024_Spring/1_10.pdf)   # ###
 ### Week 1 : Budget Constraint, Preferences. # ###
 ### Week 2 : Preferences, Utility. # ###
 ### Week 3 : Choice. # ###
