@@ -47,7 +47,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ### Week 1 : Budget Constraint, Preferences. Notes from 1/17 (Link: ../files/3010/Lectures_2024_Spring/1_17.pdf)   # ###
 ### Week 2 : Preferences, Utility. Notes from 1/22 (Link: ../files/3010/Lectures_2024_Spring/1_22.pdf), Notes from 1/24 (Link: ../files/3010/Lectures_2024_Spring/1_24.pdf)   # ###
 ### Week 3 : Choice. Notes from 1/29 (Link: ../files/3010/Lectures_2024_Spring/1_29.pdf) Notes from 1/31 (Link: ../files/3010/Lectures_2024_Spring/1_31.pdf) Video Lecture for 1/31 (Link: ../files/3010/Lectures_2024_Spring/1_31.mp4)   # ###
-### Week 4 : Demand, Slutsky Decomposition.    # ###
+### Week 4 : Demand, Slutsky Decomposition. Notes from 2/5 (Link: ../files/3010/Lectures_2024_Spring/2_5.pdf)    # ###
 ### Week 5 : Buying/Selling, Intertemporal Choice.       # ###
 ### Week 6 : Market Demand, Equilibrium.   # ###
 ### Week 7 : Equilibrium.    # ###
