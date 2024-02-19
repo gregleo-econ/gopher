@@ -36,7 +36,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
 
  Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf).  (Due: 2/5)    
  Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf).  (Due: 2/19)       
- Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf).  (Due: TBA)       
+ Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf).  (Due: 2/28)       
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  (Due: TBA)     
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf).  (Due: TBA)       
  Problem Set 6 (Link: ../files/3010/Problem_Set_7.pdf).  (Due: TBA)    
