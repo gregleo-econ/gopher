@@ -50,7 +50,7 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ### Week 4 : Demand, Slutsky Decomposition. Notes from 2/5 (Link: ../files/3010/Lectures_2024_Spring/2_5.pdf), Notes from 2/7 (Link: ../files/3010/Lectures_2024_Spring/2_7.pdf)    # ###
 ### Week 5 : Slutsky Decomposition, Buying/Selling, Intertemporal Choice. Notes from 2/12 (Link: ../files/3010/Lectures_2024_Spring/2_12.pdf), Notes from 2/14 (Link: ../files/3010/Lectures_2024_Spring/2_14.pdf)   # ###
 ### Week 6 : Market Demand, Equilibrium. Notes from 2/19 (Link: ../files/3010/Lectures_2024_Spring/2_19.pdf), Notes from 2/21 (Link: ../files/3010/Lectures_2024_Spring/2_21.pdf)    # ###
-### Week 7 : Equilibrium.    # ###
+### Week 7 : Equilibrium.  Notes from 2/26 (Link: ../files/3010/Lectures_2024_Spring/2_26.pdf)  # ###
 ### Week 8 : Midterm Exam Mar 4  # ###
 
 The exam covers material up to and including Market Demand.  
