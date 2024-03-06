@@ -51,19 +51,19 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ### Week 5 : Slutsky Decomposition, Buying/Selling, Intertemporal Choice. Notes from 2/12 (Link: ../files/3010/Lectures_2024_Spring/2_12.pdf), Notes from 2/14 (Link: ../files/3010/Lectures_2024_Spring/2_14.pdf)   # ###
 ### Week 6 : Market Demand, Equilibrium. Notes from 2/19 (Link: ../files/3010/Lectures_2024_Spring/2_19.pdf), Notes from 2/21 (Link: ../files/3010/Lectures_2024_Spring/2_21.pdf)    # ###
 ### Week 7 : Equilibrium.  Notes from 2/26 (Link: ../files/3010/Lectures_2024_Spring/2_26.pdf)  Notes from 2/28 (Link: ../files/3010/Lectures_2024_Spring/2_28.pdf)   # ###
-### Week 8 : Midterm Exam Mar 4  # ###
+### Week 8 : Midterm Exam Mar 4  Technology Notes from 3_6 (Link: ../files/3010/Lectures_2024_Spring/3_6.pdf)   # ###
 
 The exam covers material up to and including Market Demand.  
 Key Concepts For Spring 2024  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2024_Spring.pdf).  
 
 ### Spring Break   # ###
-### Week 9 : Technology.        # ###
-### Week 10 : Cost Minimization/Profit Maximization        # ###
-### Week 11 : Monopoly,Monopoly Behavior       # ###
-### Week 12 : Oligopoly, Externalities       # ###
-### Week 13/14 : General Equilibrium    # ###
-### Week 14:   General Equilibrium/Review           # ###
+### Week 9 : Cost Minimization/Profit Maximization.   # ###
+### Week 10 : Monopoly,Monopoly Behavior.        # ###
+### Week 11 : Oligopoly.       # ###
+### Week 12 : Externalities.        # ###
+### Week 13 : General Equilibrium.    # ###
+### Week 14:   Game Theory, Review.           # ###
 ### April 24 9:00am Final Exam (Cumulative)   # ###
 Key Concepts For Fall 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Fall_2023.pdf).
