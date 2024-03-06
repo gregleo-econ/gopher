@@ -53,6 +53,8 @@ Problem sets will consist of selections from problems in the workouts book, as w
 ### Week 7 : Equilibrium.  Notes from 2/26 (Link: ../files/3010/Lectures_2024_Spring/2_26.pdf)  Notes from 2/28 (Link: ../files/3010/Lectures_2024_Spring/2_28.pdf)   # ###
 ### Week 8 : Midterm Exam Mar 4  Technology Notes from 3/6 (Link: ../files/3010/Lectures_2024_Spring/3_6.pdf)   # ###
 
+ Copy Spring 2024 Midterm (Link: ../files/3010/2024_Spring_Midterm.pdf).  
+ Solution for Spring 2024 Midterm (Link: ../files/3010/2024_Spring_Midterm_Solution.pdf).  
 The exam covers material up to and including Market Demand.  
 Key Concepts For Spring 2024  
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2024_Spring.pdf).  
