@@ -36,8 +36,8 @@ Problem sets will consist of selections from problems in the workouts book, as w
 
  Problem Set 1 (Link: ../files/3010/Problem_Set_1.pdf). Solutions (Link: ../files/3010/PS1_Solution.pdf)   (Due: 2/5)  
  Problem Set 2 (Link: ../files/3010/Problem_Set_2.pdf). Solutions (Link: ../files/3010/PS2_Solution.pdf)  (Due: 2/19)  
- Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf).  (Due: 2/28)       
- Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  (Due: TBA)     
+ Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Solutions (Link: ../files/3010/PS3_Solution.pdf)  (Due: 2/28)  
+ Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  (Due: 3/25)     
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf).  (Due: TBA)       
  Problem Set 6 (Link: ../files/3010/Problem_Set_7.pdf).  (Due: TBA)    
 
@@ -60,7 +60,7 @@ Key Concepts For Spring 2024
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2024_Spring.pdf).  
 
 ### Spring Break   # ###
-### Week 9 : Cost Minimization/Profit Maximization.   # ###
+### Week 9 : Cost Minimization/Profit Maximization. Notes from 3/18 (Link: ../files/3010/Lectures_2024_Spring/3_18.pdf) Notes from 3/20 (Link: ../files/3010/Lectures_2024_Spring/3_20.pdf),    # ###
 ### Week 10 : Monopoly,Monopoly Behavior.        # ###
 ### Week 11 : Oligopoly.       # ###
 ### Week 12 : Externalities.        # ###
