@@ -3,15 +3,13 @@
 
 I am Greg Leo.  
 
-Academics: I develop and co-direct HIVE Research (Link: http://econhive.com). I teach microeconomics at Vanderbilt University and conduct research in microeconomic theory and experimental economics.  
+Academics: I am an assistant professor of economics at Vanderbilt University. My main research focus is the theory of incentives in economics experiments. I also develop and co-direct HIVE Research (Link: http://econhive.com).
 
 Software Development: I create web applicaations for academic clients/purposes and as a hobby using R, and Javascript/Vue.  
 
 Product Design: I design watches under the brand name Cron*. I am the co-creator of the popular minimalist computer keyboard known as *QAZ and creator of the ARTSEY.IO (Link: http://artsey.io) one-handed typing system.  
 
-Sports: I am an avid cyclist and inline speedskater.  
-
-Middle Name: My middle name  is Carl  
+Sports: I am an avid cyclist.  
 
 ## About This Webpage ##
 
