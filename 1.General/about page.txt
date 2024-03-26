@@ -1,0 +1,7 @@
+
+### About This Webpage ###
+
+I generate this site from a directory of markdown files using a script written in R. The markdown is converted to html using some regex nonsense. When I push the markdown files to Github (Link: https://github.com/), a virtual machine automatically runs my script to convert the markdown to html and then pushes the resulting html files to a separate Github pages (Link: https://pages.github.com/) repository for hosting.
+
+The code and some instructions for setting up your own site like this are available on my R Static Site Generator (Link: https://github.com/gregleo-econ/R-Site-Generator) repository. 
+
