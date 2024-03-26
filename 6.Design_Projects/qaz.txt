@@ -1,0 +1,9 @@
+
+### QAZ Personal Terminal ("Slabtopp" Computer) ###
+
+ QAZ Cyberdeck (Link: https://hackaday.com/wp-content/uploads/2022/10/QAZ.jpg?w=600)  
+
+This odd looking device is a QAZ Personal Terminal. It is a computer I have been working on as a long-term project over the last year and finally finished in September.  
+
+The build was recently feaured on the hackaday website: Hackaday Article (Link: https://hackaday.com/2022/10/22/2022-cyberdeck-contest-qaz-personal-terminal/)
+

@@ -1,0 +1,11 @@
+
+### 2d Hotelling Game ###
+
+This is a casual game based on the Hotelling's model of spatial competition. 
+
+## App ##
+
+<center><iframe src="https://g-econ.shinyapps.io/2dhotelling" width = "100%" height= "700"></iframe></center>
+
+
+

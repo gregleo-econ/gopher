@@ -1,0 +1,17 @@
+
+### Complainer's Dilemma (Submitted) ###
+
+## Abstract ##
+
+Technological innovations have made complaining easier. Often, when it is easy to complain, only problems that meet a high
+threshold of complaints are addressed. In this paper, we model the strategic environment facing complainers and demonstrate that the properties of the resulting games' equilibria justify the existence of high complaint thresholds. We motivate the model using a rich dataset of complaints from New York City 311. By setting the thresholds appropriately, an administrator
+can prevent complaints that are not worth addressing. Furthermore, we demonstrate that policies that minimize the cost of complaining while requiring a large threshold are universally more efficient for large constituencies.
+
+## Citation  ##
+
+Leo, Greg and Jennifer Pate, Complainer's Dilemma
+
+## Paper ##
+
+ Complainers Dilemma (Link: ../files/Papers/WP_Complainers_Dilemma.pdf)
+

@@ -1,0 +1,13 @@
+
+### Life ###
+
+This app, written in R, runs a small, random, Conway's Game of Life (Link: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automaton.
+
+ Link to Life (Link: https://gregleo-econ.shinyapps.io/bubblin/) or use the embedded app below.  
+
+## App ##
+
+<iframe src="https://gregleo-econ.shinyapps.io/bubblin/" width = "100%" height = "500"></iframe>
+
+
+

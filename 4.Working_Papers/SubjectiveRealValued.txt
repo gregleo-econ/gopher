@@ -1,0 +1,15 @@
+
+### Eliciting Subjective Real-valued Beliefs (Submitted) ###
+
+## Abstract ##
+
+We present a simple and robustly incentive-compatible price-list methodology for eliciting quantiles of a subjective real-valued belief. These elicited quantiles can be employed to approximate a subject’s complete subjective distribution, and we establish that the distribution maximizing entropy while adhering to the elicited quantiles is piece-wise linear. Using this approach, our methodology extends to estimating arbitrary unobserved attributes of the subjective distribution, such as the mean and variance, which are otherwise challenging to elicit. We provide a proof-of-concept for our framework through an experiment involving the elicitation of participants’ beliefs regarding the mathematical abilities of their peers.
+
+## Citation  ##
+
+Leo, G., Stelnicki, Sam. Eliciting Subjective Real-valued Beliefs
+
+## Paper ##
+
+ Eliciting Subjective Real-valued Beliefs (Link: ../files/Papers/WP_Subjective_Real_Valued_Beliefs.pdf)
+

@@ -1,0 +1,60 @@
+
+### Matching Soulmates (JPET) ###
+
+## Citation  ##
+
+Leo, Greg and Lou, Jian and Van der Linden, Martin and Vorobeychik, Yevgeniy and Wooders, Myrna H., "Matching Soulmates." Journal of Public Economic Theory. forthcoming
+
+## Paper ##
+
+ Matching Soulmates (Link: https://onlinelibrary.wiley.com/doi/10.1111/jpet.12542)
+
+## Matching Soulmates in R ##
+
+
+#Operator "m %r% f" applies function "f" to matrix "m" by rows. 
+%r% <- function(m,f){t(apply(m,1,match.fun(f)))}
+
+#Operator "m %rm% i" removes rows and column indicies "i" from matrix "m". 
+%rm% <- function(m,i){if(length(i)>0){m[-i,-i]}else{m}}  
+
+#Operator applies function "f" across list "l" with sapply.
+%s% <- function(l,f){sapply(l,match.fun(f))}
+
+#Returns Hadamard product of matrix m with its transpose.
+hadamard <- function(m){m * t(m)}
+
+#Given preference matrix, returns vector of player indicies who are first-order soulmates.
+whos_a_soulmate <- function(p){which((p%r%rank%>%hadamard%r%min)==1)}
+
+#Removes first order soulmates from preference matrix p.
+remove_soulmates <- function(p){p %rm% whos_a_soulmate(p) %>% as.matrix}
+
+#Recursively applies remove_soulmates until there's none left to remove.
+ims <- function(p){if(dim(p)[1]==0 || identical(remove_soulmates(p),p)){p}else{ims(remove_soulmates(p))}}
+
+#Create a random roommates preference matrix with "dim" players.
+create_preference <- function(dim){
+p <- matrix(runif(dim*dim),dim,dim,byrow=TRUE)
+diag(p)<- 1
+p %r% rank
+}
+
+#Set up parameters. "dim" is the number of players. "n" is the number of random trials. 
+dim <- 10
+n <- 100
+
+#Create List of "n" Preference Matricies with "dim" players.
+preference_list <- lapply(1:n,function(x){create_preference(dim)})
+
+#Apply IMS to the list of preferences then count the number of players remaining.
+remaining <- preference_list %s% ims %s% dim 
+
+#Get the number of players removed by IMS.
+removed <- dim - remaining[1,]
+
+#Make a table of frequencies of the number of removed players.
+removed %>% table/n
+
+
+
