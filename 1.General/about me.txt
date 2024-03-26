@@ -3,7 +3,7 @@
 
 I am Greg Leo.  
 
-Academics: I am an assistant professor of economics at Vanderbilt University. My main research focus is the theory of incentives in economics experiments. I also develop and co-direct HIVE Research (Link: http://econhive.com).
+Academics: I am microeconomic theorist at Vanderbilt University. I build tools for experimental economics. I also develop and co-direct HIVE Research (Link: http://econhive.com).
 
 Software Development: I create web applicaations for academic clients/purposes and as a hobby using R, and Javascript/Vue.  
 
