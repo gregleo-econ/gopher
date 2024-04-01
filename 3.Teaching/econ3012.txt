@@ -62,7 +62,7 @@ Key Concepts For Spring 2024
 ### Spring Break   # ###
 ### Week 9 : Cost Minimization/Profit Maximization. Notes from 3/18 (Link: ../files/3010/Lectures_2024_Spring/3_18.pdf) Notes from 3/20 (Link: ../files/3010/Lectures_2024_Spring/3_20.pdf),    # ###
 ### Week 10 : Monopoly,Monopoly Behavior. Notes from 3/25 (Link: ../files/3010/Lectures_2024_Spring/3_25.pdf) Notes from 3/27 (Link: ../files/3010/Lectures_2024_Spring/3_27.pdf)   # ###
-### Week 11 : Oligopoly.       # ###
+### Week 11 : Oligopoly.  Notes from 4/1 (Link: ../files/3010/Lectures_2024_Spring/4_1.pdf) Notes from 4/3 (Link: ../files/3010/Lectures_2024_Spring/4_3.pdf)   # ###
 ### Week 12 : Externalities.        # ###
 ### Week 13 : General Equilibrium.    # ###
 ### Week 14:   Game Theory, Review.           # ###
