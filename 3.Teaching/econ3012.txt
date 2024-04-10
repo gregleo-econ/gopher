@@ -39,19 +39,19 @@ Problem sets will consist of selections from problems in the workouts book, as w
  Problem Set 3 (Link: ../files/3010/Problem_Set_3.pdf). Solutions (Link: ../files/3010/PS3_Solution.pdf)  (Due: 2/28)  
  Problem Set 4 (Link: ../files/3010/Problem_Set_4.pdf).  (Due: 3/27)     
  Problem Set 5 (Link: ../files/3010/Problem_Set_5.pdf).  (Due: 4/15)       
- Problem Set 6 (Link: ../files/3010/Problem_Set_7.pdf).  (Due: TBA)    
+ Problem Set 6 (Link: ../files/3010/Problem_Set_7.pdf). Ignore 1 and 2  (Not Due)    
 
 ## Schedule ##
 
-### Week 0 : Overview of Syllabus & Budget Constraint. Notes from 1/10 (Link: ../files/3010/Lectures_2024_Spring/1_10.pdf)   # ###
-### Week 1 : Budget Constraint, Preferences. Notes from 1/17 (Link: ../files/3010/Lectures_2024_Spring/1_17.pdf)   # ###
-### Week 2 : Preferences, Utility. Notes from 1/22 (Link: ../files/3010/Lectures_2024_Spring/1_22.pdf), Notes from 1/24 (Link: ../files/3010/Lectures_2024_Spring/1_24.pdf)   # ###
-### Week 3 : Choice. Notes from 1/29 (Link: ../files/3010/Lectures_2024_Spring/1_29.pdf) Notes from 1/31 (Link: ../files/3010/Lectures_2024_Spring/1_31.pdf) Video Lecture for 1/31 (Link: ../files/3010/Lectures_2024_Spring/1_31.mp4)   # ###
-### Week 4 : Demand, Slutsky Decomposition. Notes from 2/5 (Link: ../files/3010/Lectures_2024_Spring/2_5.pdf), Notes from 2/7 (Link: ../files/3010/Lectures_2024_Spring/2_7.pdf)    # ###
-### Week 5 : Slutsky Decomposition, Buying/Selling, Intertemporal Choice. Notes from 2/12 (Link: ../files/3010/Lectures_2024_Spring/2_12.pdf), Notes from 2/14 (Link: ../files/3010/Lectures_2024_Spring/2_14.pdf)   # ###
-### Week 6 : Market Demand, Equilibrium. Notes from 2/19 (Link: ../files/3010/Lectures_2024_Spring/2_19.pdf), Notes from 2/21 (Link: ../files/3010/Lectures_2024_Spring/2_21.pdf)    # ###
-### Week 7 : Equilibrium.  Notes from 2/26 (Link: ../files/3010/Lectures_2024_Spring/2_26.pdf)  Notes from 2/28 (Link: ../files/3010/Lectures_2024_Spring/2_28.pdf)   # ###
-### Week 8 : Midterm Exam Mar 4  Technology Notes from 3/6 (Link: ../files/3010/Lectures_2024_Spring/3_6.pdf)   # ###
+### Week 1 : Overview of Syllabus & Budget Constraint. Notes from 1/10 (Link: ../files/3010/Lectures_2024_Spring/1_10.pdf)   # ###
+### Week 2 : Budget Constraint, Preferences. Notes from 1/17 (Link: ../files/3010/Lectures_2024_Spring/1_17.pdf)   # ###
+### Week 3 : Preferences, Utility. Notes from 1/22 (Link: ../files/3010/Lectures_2024_Spring/1_22.pdf), Notes from 1/24 (Link: ../files/3010/Lectures_2024_Spring/1_24.pdf)   # ###
+### Week 4 : Choice. Notes from 1/29 (Link: ../files/3010/Lectures_2024_Spring/1_29.pdf) Notes from 1/31 (Link: ../files/3010/Lectures_2024_Spring/1_31.pdf) Video Lecture for 1/31 (Link: ../files/3010/Lectures_2024_Spring/1_31.mp4)   # ###
+### Week 5 : Demand, Slutsky Decomposition. Notes from 2/5 (Link: ../files/3010/Lectures_2024_Spring/2_5.pdf), Notes from 2/7 (Link: ../files/3010/Lectures_2024_Spring/2_7.pdf)    # ###
+### Week 6 : Slutsky Decomposition, Buying/Selling, Intertemporal Choice. Notes from 2/12 (Link: ../files/3010/Lectures_2024_Spring/2_12.pdf), Notes from 2/14 (Link: ../files/3010/Lectures_2024_Spring/2_14.pdf)   # ###
+### Week 7 : Market Demand, Equilibrium. Notes from 2/19 (Link: ../files/3010/Lectures_2024_Spring/2_19.pdf), Notes from 2/21 (Link: ../files/3010/Lectures_2024_Spring/2_21.pdf)    # ###
+### Week 8 : Equilibrium.  Notes from 2/26 (Link: ../files/3010/Lectures_2024_Spring/2_26.pdf)  Notes from 2/28 (Link: ../files/3010/Lectures_2024_Spring/2_28.pdf)   # ###
+### Week 9 : Midterm Exam Mar 4  Technology Notes from 3/6 (Link: ../files/3010/Lectures_2024_Spring/3_6.pdf)   # ###
 
  Copy Spring 2024 Midterm (Link: ../files/3010/2024_Spring_Midterm.pdf).  
  Solution for Spring 2024 Midterm (Link: ../files/3010/2024_Spring_Midterm_Solution.pdf).  
@@ -60,12 +60,11 @@ Key Concepts For Spring 2024
  Key Concepts (Link: ../files/3010/Key_Concepts_Mid_2024_Spring.pdf).  
 
 ### Spring Break   # ###
-### Week 9 : Cost Minimization/Profit Maximization. Notes from 3/18 (Link: ../files/3010/Lectures_2024_Spring/3_18.pdf) Notes from 3/20 (Link: ../files/3010/Lectures_2024_Spring/3_20.pdf),    # ###
-### Week 10 : Monopoly,Monopoly Behavior. Notes from 3/25 (Link: ../files/3010/Lectures_2024_Spring/3_25.pdf) Notes from 3/27 (Link: ../files/3010/Lectures_2024_Spring/3_27.pdf)   # ###
-### Week 11 : Oligopoly.  Notes from 4/1 (Link: ../files/3010/Lectures_2024_Spring/4_1.pdf) Notes from 4/3 (Link: ../files/3010/Lectures_2024_Spring/4_3.pdf)   # ###
-### Week 12 : Externalities.  Notes from 4/8 (Link: ../files/3010/Lectures_2024_Spring/4_8.pdf) Notes from 4/10 (Link: ../files/3010/Lectures_2024_Spring/4_10.pdf)   # ###
-### Week 13 : General Equilibrium.    # ###
-### Week 14:   Game Theory, Review.           # ###
+### Week 10 : Cost Minimization/Profit Maximization. Notes from 3/18 (Link: ../files/3010/Lectures_2024_Spring/3_18.pdf) Notes from 3/20 (Link: ../files/3010/Lectures_2024_Spring/3_20.pdf),    # ###
+### Week 11 : Monopoly,Monopoly Behavior. Notes from 3/25 (Link: ../files/3010/Lectures_2024_Spring/3_25.pdf) Notes from 3/27 (Link: ../files/3010/Lectures_2024_Spring/3_27.pdf)   # ###
+### Week 12 : Oligopoly.  Notes from 4/1 (Link: ../files/3010/Lectures_2024_Spring/4_1.pdf) Notes from 4/3 (Link: ../files/3010/Lectures_2024_Spring/4_3.pdf)   # ###
+### Week 13 : Externalities.  Notes from 4/8 (Link: ../files/3010/Lectures_2024_Spring/4_8.pdf) Notes from 4/10 (Link: ../files/3010/Lectures_2024_Spring/4_10.pdf)   # ###
+### Week 14 : Review    # ###
 ### April 24 9:00am Final Exam (Cumulative)   # ###
 Key Concepts For Fall 2023  
  Key Concepts (Link: ../files/3010/Key_Concepts_Fall_2023.pdf).
