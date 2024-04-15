@@ -66,8 +66,8 @@ Key Concepts For Spring 2024
 ### Week 13 : Externalities.  Notes from 4/8 (Link: ../files/3010/Lectures_2024_Spring/4_8.pdf) Notes from 4/10 (Link: ../files/3010/Lectures_2024_Spring/4_10.pdf)   # ###
 ### Week 14 : Review    # ###
 ### April 24 9:00am Final Exam (Cumulative)   # ###
-Key Concepts For Fall 2023  
- Key Concepts (Link: ../files/3010/Key_Concepts_Fall_2023.pdf).
+Key Concepts For Spring 2024  
+ Key Concepts (Link: ../files/3010/Key_Concepts_Spring_2024.pdf).
 
 ## Old Exams / Additional Practice ##
  Extra Practice Problems (Link: ../files/3010/PracticeProblems.pdf)  
