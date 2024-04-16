@@ -64,7 +64,7 @@ Key Concepts For Spring 2024
 ### Week 11 : Monopoly,Monopoly Behavior. Notes from 3/25 (Link: ../files/3010/Lectures_2024_Spring/3_25.pdf) Notes from 3/27 (Link: ../files/3010/Lectures_2024_Spring/3_27.pdf)   # ###
 ### Week 12 : Oligopoly.  Notes from 4/1 (Link: ../files/3010/Lectures_2024_Spring/4_1.pdf) Notes from 4/3 (Link: ../files/3010/Lectures_2024_Spring/4_3.pdf)   # ###
 ### Week 13 : Externalities.  Notes from 4/8 (Link: ../files/3010/Lectures_2024_Spring/4_8.pdf) Notes from 4/10 (Link: ../files/3010/Lectures_2024_Spring/4_10.pdf)   # ###
-### Week 14 : Review    # ###
+### Week 14 : Review   Notes from 4/15 (Link: ../files/3010/Lectures_2024_Spring/4_15.pdf)   # ###
 ### April 24 9:00am Final Exam (Cumulative)   # ###
 Key Concepts For Spring 2024  
  Key Concepts (Link: ../files/3010/Key_Concepts_Spring_2024.pdf).
