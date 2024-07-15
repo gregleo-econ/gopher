@@ -1,0 +1,15 @@
+
+### Belief Elicitation: a User's Guide [Experimental Methodology Handbook Chapter] ###
+
+## Abstract ##
+
+This chapter serves as a comprehensive guide on incentivized belief elicitation, a broad topic with many potential statistics to elicit and mechanisms to consider. The chapter is designed as a 'choose your own adventure' novel, allowing researchers to navigate based on their specific goals. Key sections include guidance on selecting what statistic to elicit and selecting an appropriate mechanism. Detailed discussion on different mechanisms, their historical context, and theoretical foundations is provided. The chapter also includes practical examples and our opinions.
+
+## Citation  ##
+
+Healy, P.J. and Leo, Greg, Belief Elicitation: a User's Guide
+
+## Paper ##
+
+Draft Soon
+
