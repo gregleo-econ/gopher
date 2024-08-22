@@ -25,21 +25,18 @@ These class notes are a polished version of what I cover in class.
 
 ## Schedule ##
 
-### Week 1 :  # ###
-### Week 2 :  # ###
-### Week 3 :  # ###
-### Week 4 :  # ###
-### Week 5 :  # ###
-### Week 6 :  # ###
-### Week 7 :  # ###
-### Week 8 :  # ###
-### Midterm # ###
-### Week 9 :  # ###
-### Week 10 :  # ###
-### Week 11 :  # ###
-### Week 12 :  # ###
-### Week 13 :  # ###
-### Week 14 :  # ###
+### Week 1 : Chapter 0. Prologue - Optimization # ###
+### Week 2-3 : Chapter 1. Efficiency and Fairness # ###
+### Week 3-4 : Chapter 2. Markets: Successes and Failures # ###
+### Week 4-5 : Chapter 3. Introduction to Game Theory # ###
+### Week 6 : Chapter 4. Externalities in Games # ###
+### Week 7 : Chapter 5. Side-payments and Randomization # ###
+### Week 8 : Chapter 6. The Volunteers Dilemma # ###
+### Week 9-10 : Chapter 7. Public Goods # ###
+### Week 11 : Chapter 8. Tragedy of the Commons # ###
+### Week 12-13: Chapter 9. Public Choice / Voting # ###
+### Week 14: Chapter 10. Congestion # ###
+
 ### Final Exam (Cumulative)   # ###
 
 Key Concepts For Fall 2024  
