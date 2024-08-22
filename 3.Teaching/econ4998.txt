@@ -1,25 +1,34 @@
 
 ### LMU Public Economics - 4998 ###
 
-This is the course website for LMU Economics 4998- Public Economics. This page will be continuously updated throughout the semester. Please check it regularly.   
+This is the Fall 2024 course syllabus and website for Loyola Marymount Economics 4998- Public Economics.  
 
-Econ 4998 focuses on efficiency and fairness in economics. 
+This page will be continuously updated throughout the semester. Please check it regularly.   
+
+## Description ##
+
+This course focuses on efficiency and fairness in economics. 
+
+## Mathematics Rigor  ##
 
 Some concepts and formulas from differential calculus will be used. I emphasize intuition and deep understand over the mechanical process of solving problems.  
 
-There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.  
+## Grading  ##
+
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework. 
+
+## Policy  ##
+
+The https://academics.lmu.edu/honesty/ (Link: Academic Honesty) policy applies to this course. For policies regarding accommodations and disabilities, please see the https://academics.lmu.edu/dss/ (Link: DSS) website. 
+
+## Times ##
 
 Class Meetings: Tuesday/Thursday 1:45-3:25 or 3:40-5:20 in University Hall Room 2228  
 Greg's office hours: Tuesday 11-12pm in University Hall 4225.  
 
-
 ## Textbook ##
 
 The class notes below are the official textbook for the course.  
-
-## Class Notes  ##
-
-These class notes are a polished version of what I cover in class.  
 
  Class Notes (Link: ../files/4998/4998_Notes.pdf)   
 
@@ -37,7 +46,7 @@ These class notes are a polished version of what I cover in class.
 ### Week 12-13: Chapter 9. Public Choice / Voting # ###
 ### Week 14: Chapter 10. Congestion # ###
 
-### Final Exam (Cumulative)   # ###
+## Final Exam (Cumulative)   ##
 
 Key Concepts For Fall 2024  
  Key Concepts (Link: ../files/4998/Key_Concepts.pdf).
