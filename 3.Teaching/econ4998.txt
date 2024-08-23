@@ -3,23 +3,25 @@
 
 This is the Fall 2024 course syllabus and website for Loyola Marymount Economics 4998- Public Economics.  
 
-This page will be continuously updated throughout the semester. Please check it regularly.   
+This page serves as the living syllabus for the course. It will be continuously updated throughout the semester. Please check it regularly. If you are not viewing this syllabus through my website, please visit https://gregcleo.com/3.Teaching/econ4998.html for the most up-to-date version.
 
 ## Description ##
 
-This course focuses on efficiency and fairness in economics. 
+This course is designed to explore the concepts of efficiency and fairness in both market and non-market settings. We will start by examining core principles such as optimization, ordinal relations, utility, and measures of efficiency and fairness to build a strong foundation. Next, we will analyze simple exchange markets, their successes and failures, and see how property rights can help address market inefficiencies. We will then shift focus to non-market collective decisions, addressing the challenges of achieving efficiency and fairness in public goods and common resource problems. Additionally, we will explore how imperfect information exacerbates these issues and discuss potential solutions.
 
-## Mathematics Rigor  ##
+The course emphasizes intuitive understanding and practical application of economic theory. You will engage with a variety models to see how economic tools can tackle problems of efficiency and fairness in public economics. This course will challenge you to think critically about the role of economists in shaping public policy, societal outcomes, and collective decision-making, providing insight into how economic theory can inform real-world decisions and actions.
 
-Some concepts and formulas from differential calculus will be used. I emphasize intuition and deep understand over the mechanical process of solving problems.  
+## Mathematical Rigor  ##
+
+The only mathematical pre-requisite for this course is multivariate calculus. I will draw on tools from other areas of mathematics, but I will introduce these tools to you as we learn. I emphasize intuition and deep understand over the mechanical process of solving problems.  
 
 ## Grading  ##
 
 There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework. 
 
-## Policy  ##
+## Policies   ##
 
-The https://academics.lmu.edu/honesty/ (Link: Academic Honesty) policy applies to this course. For policies regarding accommodations and disabilities, please see the https://academics.lmu.edu/dss/ (Link: DSS) website. 
+The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply to this course. For policies regarding accommodations and disabilities, please see the DSS (Link: https://academics.lmu.edu/dss/) website. 
 
 ## Times ##
 
@@ -28,27 +30,40 @@ Greg's office hours: Tuesday 11-12pm in University Hall 4225.
 
 ## Textbook ##
 
-The class notes below are the official textbook for the course.  
-
- Class Notes (Link: ../files/4998/4998_Notes.pdf)   
+The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course.
 
 ## Schedule ##
 
-### Week 1 : Chapter 0. Prologue - Optimization # ###
-### Week 2-3 : Chapter 1. Efficiency and Fairness # ###
-### Week 3-4 : Chapter 2. Markets: Successes and Failures # ###
-### Week 4-5 : Chapter 3. Introduction to Game Theory # ###
-### Week 6 : Chapter 4. Externalities in Games # ###
-### Week 7 : Chapter 5. Side-payments and Randomization # ###
-### Week 8 : Chapter 6. The Volunteers Dilemma # ###
-### Week 9-10 : Chapter 7. Public Goods # ###
-### Week 11 : Chapter 8. Tragedy of the Commons # ###
-### Week 12-13: Chapter 9. Public Choice / Voting # ###
-### Week 14: Chapter 10. Congestion # ###
+## Prologue Weeks 1-3 ##
 
-## Final Exam (Cumulative)   ##
+### Chapter 1. Prologue - Optimization # ###
+### Chapter 2. Ordinal Relations and Utility # ###
+### Chapter 3. Measures of Efficiency and Welfare # ###
 
-Key Concepts For Fall 2024  
+## Markets Weeks 4-6 ##
+
+### Chapter 4. Simple Exchange Markets  # ###
+### Chapter 5. Markets: Successes / Failures # ###
+### Chapter 6. Markets: Property Rights # ###
+
+## Midterm Covering Chapters 1-6 ##
+
+## Games Weeks 7-12 ##
+
+### Chapter 8. Introduction to Game Theory # ###
+### Chapter 9. Randomization and Side-Payments # ###
+### Chapter 10. Tragedy of the Commons / Congestion # ###
+### Chapter 11. Volunteer's Dilemma # ###
+### Chapter 12. Public Goods # ###
+
+## Imperfect Information Weeks 13-16 ##
+
+### Chapter 13. Imperfect Information in Volunteer's Dilemma # ###
+### Chapter 14. Imperfect Information in Public Goods # ###
+### Chapter 15. Voting # ###
+
+## Final Exam Covering Chapters 1-15 ##
  Key Concepts (Link: ../files/4998/Key_Concepts.pdf).
+ For Fall 2024
 
 
