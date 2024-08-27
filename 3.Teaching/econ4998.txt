@@ -3,9 +3,13 @@
 
 This is the Fall 2024 course syllabus and website for Loyola Marymount Economics 4998- Public Economics.  
 
-This page serves as the living syllabus for the course. It will be continuously updated throughout the semester. Please check it regularly. If you are not viewing this syllabus through my website, please visit:
+This page serves as the living syllabus for the course. It will be continuously updated throughout the semester. Please check it regularly. If you are not viewing this syllabus through my website, please visit:  
 
-https://gregcleo.com/3.Teaching/econ4998.html
+https://gregcleo.com/3.Teaching/econ4998.html  
+
+## Textbook (Last Updated 8/27/24) ##
+
+The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester. 
 
 ## Description ##
 
@@ -29,10 +33,6 @@ The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply t
 
 Class Meetings: Tuesday/Thursday 1:45-3:25 or 3:40-5:20 in University Hall Room 2228  
 Greg's office hours: Tuesday 11-12pm in University Hall 4225.  
-
-## Textbook (Last Updated 8/23/24) ##
-
-The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester. 
 
 ## Schedule ##
 
