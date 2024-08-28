@@ -7,9 +7,12 @@ This page serves as the living syllabus for the course. It will be continuously 
 
 https://gregcleo.com/3.Teaching/econ4998.html  
 
-## Textbook (Last Updated 8/27/24) ##
+## Textbook ##
 
-The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester. 
+The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.  
+  
+Updates  
+8/28/2024- Moved optimization to appendix. Expanded chapter 1 (Binary relations and preferences) and chapter 2 (Utility)  
 
 ## Description ##
 
@@ -36,36 +39,12 @@ Greg's office hours: Tuesday 11-12pm in University Hall 4225.
 
 ## Schedule ##
 
-## Prologue Weeks 1-3 ##
+8/27/24 Appendix Capter A Optimization
 
-### Chapter 1. Prologue - Optimization # ###
-### Chapter 2. Ordinal Relations and Utility # ###
-### Chapter 3. Measures of Efficiency and Welfare # ###
 
-## Markets Weeks 4-6 ##
+8/29/24 Chapter 1 Binary Relations and Preferences
 
-### Chapter 4. Simple Exchange Markets  # ###
-### Chapter 5. Markets: Successes / Failures # ###
-### Chapter 6. Markets: Property Rights # ###
+Homework 1 Due 9/5/24. Exercises from Chapters A,1,2. 
 
-## Midterm Covering Chapters 1-6 ##
-
-## Games Weeks 7-12 ##
-
-### Chapter 8. Introduction to Game Theory # ###
-### Chapter 9. Randomization and Side-Payments # ###
-### Chapter 10. Tragedy of the Commons / Congestion # ###
-### Chapter 11. Volunteer's Dilemma # ###
-### Chapter 12. Public Goods # ###
-
-## Imperfect Information Weeks 13-16 ##
-
-### Chapter 13. Imperfect Information in Volunteer's Dilemma # ###
-### Chapter 14. Imperfect Information in Public Goods # ###
-### Chapter 15. Voting # ###
-
-## Final Exam Covering Chapters 1-15 ##
- Key Concepts (Link: ../files/4998/Key_Concepts.pdf).
- For Fall 2024
 
 
