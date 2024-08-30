@@ -37,14 +37,18 @@ The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply t
 Class Meetings: Tuesday/Thursday 1:45-3:25 or 3:40-5:20 in University Hall Room 2228  
 Greg's office hours: Tuesday 11-12pm in University Hall 4225.  
 
+## Homework ##
+
+Homework 1. (Due TBA) Exercises from Chapters 1,2. 
+
+
 ## Schedule ##
 
-8/27/24 Appendix Capter A Optimization
+8/27/24 Appendix Capter A Optimization  
+8/29/24 Exercises from Chapter A Optimization  
+ Raw Notes from 8/29 (Link: ../files/4998/raw/8_29.pdf).  
 
 
-8/29/24 Chapter 1 Binary Relations and Preferences
-
-Homework 1 Due 9/5/24. Exercises from Chapters A,1,2. 
 
 
 
