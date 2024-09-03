@@ -49,6 +49,13 @@ Homework 1. (Due TBA) Exercises from Chapters 1,2.
  Raw Notes from 8/29 (Link: ../files/4998/raw/8_29.pdf).  
 9/2/24
 
+## Resources ##
+
+Need to review derivatives?  
+ Review Sheet (Link: ../files/4998/derivative_review.pdf)  
+ Practice Problems (Link: ../files/4998/practice_derivatives.pdf)  
+ Solutions (Link: ../files/4998/practice_derivatives_solutions.pdf)  
+
 
 
 
