@@ -39,7 +39,7 @@ Greg's office hours: Tuesday 11-12pm in University Hall 4225.
 
 ## Homework ##
 
-Homework 1. (Due TBA) Exercises from Chapters 1,2. 
+Homework 1. (Due 9/12) Exercises from Chapters 1,2. 
 
 
 ## Schedule ##
@@ -47,7 +47,8 @@ Homework 1. (Due TBA) Exercises from Chapters 1,2.
 8/27/24 Appendix Capter A Optimization  
 8/29/24 Exercises from Chapter A Optimization  
  Raw Notes from 8/29 (Link: ../files/4998/raw/8_29.pdf).  
-9/2/24
+9/3/24
+ Raw Notes from 9/3 (Link: ../files/4998/raw/9_3.pdf).  
 
 ## Resources ##
 
