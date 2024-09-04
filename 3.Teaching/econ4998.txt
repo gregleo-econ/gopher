@@ -9,10 +9,10 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 ## Textbook ##
 
-The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.  
-  
+The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
 Updates  
 8/28/2024- Moved optimization to appendix. Expanded chapter 1 (Binary relations and preferences) and chapter 2 (Utility)  
+9/4/2024- Minor changes to Chapter 1. Simplified exercise 1.4.
 
 ## Description ##
 
