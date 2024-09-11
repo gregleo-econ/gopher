@@ -11,9 +11,8 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
 Updates  
-8/28/2024- Moved optimization to appendix. Expanded chapter 1 (Binary relations and preferences) and chapter 2 (Utility)  
-9/4/2024- Minor changes to Chapter 1. Simplified exercise 1.4.
 9/4/2024- Minor changes to Chapter 1.9. Added exercise 1.9.
+9/10/2024- Added Chapter 3  
 
 ## Description ##
 
@@ -48,7 +47,9 @@ Homework 1. (Due 9/12) Exercises from Chapters 1,2.
 8/27/24 Appendix Capter A Optimization  
 8/29/24 Exercises from Chapter A Optimization Raw Notes from 8/29 (Link: ../files/4998/raw/8_29.pdf).  
 9/3/24 Chapter 1: Preferences Raw Notes from 9/3 (Link: ../files/4998/raw/9_3.pdf).  
-9/3/24 Chapter 1/2: Preferences and Utility Raw Notes from 9/5 (Link: ../files/4998/raw/9_5.pdf).  
+9/5/24 Chapter 1/2: Preferences and Utility Raw Notes from 9/5 (Link: ../files/4998/raw/9_5.pdf).  
+9/10/24 Chapter 3: Framework Raw Notes from 9/10 (Link: ../files/4998/raw/9_10.pdf).  
+
 
 ## Resources ##
 
