@@ -57,6 +57,8 @@ Homework 1. (Due 9/12) Exercises from Chapters 1,2.
 9/12/24 Chapter 4: Pareto Efficiency Raw Notes from 9/12 (Link: ../files/4998/raw/9_12.pdf).  
 9/17/24 Chapter 4-5: Pareto Efficiency and Social Preferences Raw Notes from 9/17 (Link: ../files/4998/raw/9_17.pdf).  
 9/19/24 Chapter 6: Preference Aggregation Rules Raw Notes from 9/19 (Link: ../files/4998/raw/9_19.pdf).  
+9/26/24 Chapter 7: Preference Aggregation Properties Raw Notes from 9/26 (Link: ../files/4998/raw/9_26.pdf).  
+
 
 
 10/17/24 Midterm
