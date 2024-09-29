@@ -13,6 +13,7 @@ The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook f
 Updates  
 9/14/2024- Updated Chapter 5. Added HW1 Solutions.  
 9/20/2024- Updated Chapter 5. Added chapter 6. 
+9/28/2024- Updated Chapter 6. Added chapter 7. 
 
 
 ## Description ##
@@ -41,6 +42,7 @@ Greg's office hours: Tuesday 11-12pm in University Hall 4225.
 ## Homework ##
 
 Homework 1. (Due 9/12) Exercises from Chapters 1,2. 
+Homework 1. (Due 10/8) Exercises from Chapters 3-7. 
 
 ## Exams ##
 
