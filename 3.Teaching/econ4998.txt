@@ -11,10 +11,7 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
 Updates  
-9/14/2024- Updated Chapter 5. Added HW1 Solutions.  
-9/20/2024- Updated Chapter 5. Added chapter 6. 
-9/28/2024- Updated Chapter 6. Added chapter 7. 
-
+10/9/2024- Large update. Combined sections 5 and 6 into what is not section 5. Expanded sections 8,9,10. Added key topics to each section. The notes are now complete through section 10 which is the material covered on the first midterm.  
 
 ## Description ##
 
@@ -61,11 +58,12 @@ Homework 2. (Due 10/8) Exercises from Chapters 3-7.
 9/19/24 Chapter 6: Preference Aggregation Rules Raw Notes from 9/19 (Link: ../files/4998/raw/9_19.pdf).  
 9/26/24 Chapter 7: Preference Aggregation Properties Raw Notes from 9/26 (Link: ../files/4998/raw/9_26.pdf).  
 10/01/24 Chapter 8-9: Social Choice Functions Raw Notes from 10/1 (Link: ../files/4998/raw/10_1.pdf).  
+10/01/24 Chapter 10: Strategic Voting Raw Notes from 10/8 (Link: ../files/4998/raw/10_8.pdf).  
 
 
 
 
-10/17/24 Midterm
+10/17/24 Midterm Covering Sections 1-10. 
 
 
 ## Resources ##
