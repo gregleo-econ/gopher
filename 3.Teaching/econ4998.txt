@@ -11,7 +11,7 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
 Updates  
-10/16/2024- Fixed typo in Example 7.6. It should have a and b as the social choices.  
+10/16/2024- Fixed typo in Example 7.6. It should have a and b as the social choices. Fixed Solution 6.2. It should have said a>b~c not a~b>c.  
 10/15/2024- Minor updates to key topics. Indicated what is not covered on midterm.  
 10/11/2024- Added solutions 7-9.  
 10/10/2024- Added solutions for all exercises through chapter 6. 7-9 will be posted tomorrow.    
