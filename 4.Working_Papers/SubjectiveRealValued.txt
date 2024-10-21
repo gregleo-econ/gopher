@@ -1,5 +1,5 @@
 
-### Eliciting Subjective Real-valued Beliefs (R&R) ###
+### Eliciting Subjective Real-valued Beliefs (R&R: EE) ###
 
 ## Abstract ##
 
