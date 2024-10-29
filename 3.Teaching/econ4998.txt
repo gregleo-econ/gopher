@@ -62,9 +62,10 @@ Homework 3. (Not Due) Exercises from Chapters 7-9.
 10/01/24 Chapter 7-8: Social Choice Functions Raw Notes from 10/1 (Link: ../files/4998/raw/10_1.pdf).  
 10/08/24 Chapter 9: Strategic Voting Raw Notes from 10/8 (Link: ../files/4998/raw/10_8.pdf).  
 10/10/24 Chapter 10: Welfare Functions Raw Notes from 10/10 (Link: ../files/4998/raw/10_10.pdf).  
-10/15/24 Review Raw Notes from 10/15 (Link: ../files/4998/raw/10_15.pdf).  
-10/15/24 Review Raw Notes from 10/22 (Link: ../files/4998/raw/10_22.pdf).  
-10/15/24 Review Raw Notes from 10/24 (Link: ../files/4998/raw/10_24.pdf).  
+10/15/24 Review Raw Notes from 10/15 (Link: ../filehs/4998/raw/10_15.pdf).  
+10/22/24 Chapter 10: Welfare Functions Raw Notes from 10/22 (Link: ../files/4998/raw/10_22.pdf).  
+10/24/24 Chapter 10: Welfare Functions Raw Notes from 10/24 (Link: ../files/4998/raw/10_24.pdf).  
+
 ## Old Exams ##
 
  Fall 2024 Midterm (Link: ../files/4998/Fall_2024_Midterm.pdf)  
