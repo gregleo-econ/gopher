@@ -11,11 +11,8 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
 Updates  
-10/16/2024- Fixed typo in Example 7.6. It should have a and b as the social choices. Fixed Solution 6.2. It should have said a>b~c not a~b>c.  
-10/15/2024- Minor updates to key topics. Indicated what is not covered on midterm.  
-10/11/2024- Added solutions 7-9.  
-10/10/2024- Added solutions for all exercises through chapter 6. 7-9 will be posted tomorrow.    
-10/9/2024- Large update. Combined sections 5 and 6 into what is not section 5. Expanded sections 8,9,10. Added key topics to each section. The notes are now complete through section 10 which is the material covered on the first midterm.  
+10/28/2024- Added chapters 10 and 11.  
+
 
 
 ## Description ##
@@ -66,7 +63,8 @@ Homework 3. (Not Due) Exercises from Chapters 7-9.
 10/08/24 Chapter 9: Strategic Voting Raw Notes from 10/8 (Link: ../files/4998/raw/10_8.pdf).  
 10/10/24 Chapter 10: Welfare Functions Raw Notes from 10/10 (Link: ../files/4998/raw/10_10.pdf).  
 10/15/24 Review Raw Notes from 10/15 (Link: ../files/4998/raw/10_15.pdf).  
-
+10/15/24 Review Raw Notes from 10/22 (Link: ../files/4998/raw/10_22.pdf).  
+10/15/24 Review Raw Notes from 10/24 (Link: ../files/4998/raw/10_24.pdf).  
 ## Old Exams ##
 
  Fall 2024 Midterm (Link: ../files/4998/Fall_2024_Midterm.pdf)  
