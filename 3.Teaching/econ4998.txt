@@ -51,7 +51,7 @@ Homework 4. (Due 11/12) Exercises from Chapters 10-11.
 
 ## Raw Lecture Notes ##
 
-8/27/24 Appendix Capter A Optimization  
+8/27/24 Appendix Chapter A Optimization  
 8/29/24 Exercises from Chapter A Optimization Raw Notes from 8/29 (Link: ../files/4998/raw/8_29.pdf).  
 9/3/24 Chapter 1: Preferences Raw Notes from 9/3 (Link: ../files/4998/raw/9_3.pdf).  
 9/5/24 Chapter 1/2: Preferences and Utility Raw Notes from 9/5 (Link: ../files/4998/raw/9_5.pdf).  
