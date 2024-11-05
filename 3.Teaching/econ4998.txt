@@ -67,6 +67,9 @@ Homework 4. (Due 11/12) Exercises from Chapters 10-11.
 10/22/24 Chapter 10: Welfare Functions Raw Notes from 10/22 (Link: ../files/4998/raw/10_22.pdf).  
 10/24/24 Chapter 10: Welfare Functions Raw Notes from 10/24 (Link: ../files/4998/raw/10_24.pdf).  
 10/29/24 Chapter 11: Randomization Raw Notes from 10/29 (Link: ../files/4998/raw/10_29.pdf).  
+10/31/24 Chapter 11: Randomization Raw Notes from 10/31 (Link: ../files/4998/raw/10_31.pdf).  
+11/05/24 Chapter 12: Game Theory Raw Notes from 11/5 (Link: ../files/4998/raw/11_5.pdf).  
+
 
 
 
