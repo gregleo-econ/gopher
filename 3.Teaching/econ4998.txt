@@ -17,9 +17,7 @@ Updates
 
 ## Description ##
 
-This course is designed to explore the concepts of efficiency and fairness in both market and non-market settings. We will start by examining core principles such as optimization, ordinal relations, utility, and measures of efficiency and fairness to build a strong foundation. Next, we will analyze simple exchange markets, their successes and failures, and see how property rights can help address market inefficiencies. We will then shift focus to non-market collective decisions, addressing the challenges of achieving efficiency and fairness in public goods and common resource problems. Additionally, we will explore how imperfect information exacerbates these issues and discuss potential solutions.
-
-The course emphasizes intuitive understanding and practical application of economic theory. You will engage with a variety models to see how economic tools can tackle problems of efficiency and fairness in public economics. This course will challenge you to think critically about the role of economists in shaping public policy, societal outcomes, and collective decision-making, providing insight into how economic theory can inform real-world decisions and actions.
+This course explores the theoretical and practical aspects of making choices that affect several/many people. Students will analyze how collective preferences can be constructed from individual preferences, and how to make choices that respect these collective preferences. In the latter half of the course, we focus on strategic interactions and game theory, applying these tools to understand when and how intervention can help improve societal outcomes. 
 
 ## Mathematical Rigor  ##
 
