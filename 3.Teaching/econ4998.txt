@@ -12,29 +12,28 @@ https://gregcleo.com/3.Teaching/econ4998.html
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
 Updates  
 10/28/2024- Added chapters 10 and 11.  
-
-
+11/6/2024- Added chapter 12.  
 
 ## Description ##
 
-This course explores the theoretical and practical aspects of making choices that affect several/many people. Students will analyze how collective preferences can be constructed from individual preferences, and how to make choices that respect these collective preferences. In the latter half of the course, we focus on strategic interactions and game theory, applying these tools to understand when and how intervention can help improve societal outcomes. 
+This course explores the theoretical and practical aspects of making choices that affect several/many people. Students will analyze how collective preferences can be constructed from individual preferences, and how to make choices that respect these collective preferences. In the latter half of the course, we focus on strategic interactions and game theory, applying these tools to understand when and how intervention can help improve societal outcomes.  
 
 ## Mathematical Rigor  ##
 
-The only mathematical pre-requisite for this course is multivariate calculus. I will draw on tools from other areas of mathematics, but I will introduce these tools to you as we learn. I emphasize intuition and deep understand over the mechanical process of solving problems.  
+The only mathematical pre-requisite for this course is multivariate calculus. I will draw on tools from other areas of mathematics, but I will introduce these tools to you as we learn. I emphasize intuition and deep understanding over the mechanical process of solving problems.  
 
 ## Grading  ##
 
-There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework. 
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.  
 
 ## Policies   ##
 
-The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply to this course. For policies regarding accommodations and disabilities, please see the DSS (Link: https://academics.lmu.edu/dss/) website. 
+The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply to this course. For policies regarding accommodations and disabilities, please see the DSS (Link: https://academics.lmu.edu/dss/) website.  
 
 ## Times ##
 
 Class Meetings: Tuesday/Thursday 1:45-3:25 (UNH 3222) or 3:40-5:20 (UNH 2228)  
-Greg's office hours: Tuesday 11-12pm in University Hall 4225.  
+Greg's office hours: Tuesday/Thursday 11-12pm in University Hall 4225 or by Appointment.  
 
 ## Homework ##
 
@@ -67,9 +66,6 @@ Homework 4. (Due 11/12) Exercises from Chapters 10-11.
 10/29/24 Chapter 11: Randomization Raw Notes from 10/29 (Link: ../files/4998/raw/10_29.pdf).  
 10/31/24 Chapter 11: Randomization Raw Notes from 10/31 (Link: ../files/4998/raw/10_31.pdf).  
 11/05/24 Chapter 12: Game Theory Raw Notes from 11/5 (Link: ../files/4998/raw/11_5.pdf).  
-
-
-
 
 ## Old Exams ##
 
