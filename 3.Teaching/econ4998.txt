@@ -66,6 +66,7 @@ Homework 4. (Due 11/12) Exercises from Chapters 10-11.
 10/29/24 Chapter 11: Randomization Raw Notes from 10/29 (Link: ../files/4998/raw/10_29.pdf).  
 10/31/24 Chapter 11: Randomization Raw Notes from 10/31 (Link: ../files/4998/raw/10_31.pdf).  
 11/05/24 Chapter 12: Game Theory Raw Notes from 11/5 (Link: ../files/4998/raw/11_5.pdf).  
+11/07/24 Chapter 13: Public Goods Raw Notes from 11/7 (Link: ../files/4998/raw/11_7.pdf).  
 
 ## Old Exams ##
 
