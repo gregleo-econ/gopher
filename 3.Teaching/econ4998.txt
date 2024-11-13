@@ -9,7 +9,7 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 ## Textbook ##
 
-The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.    
+The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.  
 Updates  
 10/28/2024- Added chapters 10 and 11.  
 11/6/2024- Added chapter 12.  
@@ -18,11 +18,11 @@ Updates
 
 This course explores the theoretical and practical aspects of making choices that affect several/many people. Students will analyze how collective preferences can be constructed from individual preferences, and how to make choices that respect these collective preferences. In the latter half of the course, we focus on strategic interactions and game theory, applying these tools to understand when and how intervention can help improve societal outcomes.  
 
-## Mathematical Rigor  ##
+## Mathematical Rigor ##
 
 The only mathematical pre-requisite for this course is multivariate calculus. I will draw on tools from other areas of mathematics, but I will introduce these tools to you as we learn. I emphasize intuition and deep understanding over the mechanical process of solving problems.  
 
-## Grading  ##
+## Grading ##
 
 There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 30% on the midterm exam, 50% on the final exam, and 20% on homework.  
 
@@ -67,6 +67,7 @@ Homework 4. (Due 11/12) Exercises from Chapters 10-11.
 10/31/24 Chapter 11: Randomization Raw Notes from 10/31 (Link: ../files/4998/raw/10_31.pdf).  
 11/05/24 Chapter 12: Game Theory Raw Notes from 11/5 (Link: ../files/4998/raw/11_5.pdf).  
 11/07/24 Chapter 13: Public Goods Raw Notes from 11/7 (Link: ../files/4998/raw/11_7.pdf).  
+11/13/24 Chapter 13: Public Goods Raw Notes from 11/13 (Link: ../files/4998/raw/11_13.pdf).  
 
 ## Old Exams ##
 
@@ -79,8 +80,4 @@ Need to review derivatives?
  Review Sheet (Link: ../files/4998/derivative_review.pdf)  
  Practice Problems (Link: ../files/4998/practice_derivatives.pdf)  
  Solutions (Link: ../files/4998/practice_derivatives_solutions.pdf)  
-
-
-
-
 
