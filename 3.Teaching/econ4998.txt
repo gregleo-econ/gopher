@@ -11,8 +11,7 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.  
 Updates  
-10/28/2024- Added chapters 10 and 11.  
-11/6/2024- Added chapter 12.  
+11/19/2024- Added chapters 13,14. Moved exercises to separate section.    
 
 ## Description ##
 
@@ -68,8 +67,8 @@ Homework 4. (Due 11/12) Exercises from Chapters 10-11.
 11/05/24 Chapter 12: Game Theory Raw Notes from 11/5 (Link: ../files/4998/raw/11_5.pdf).  
 11/07/24 Chapter 13: Public Goods Raw Notes from 11/7 (Link: ../files/4998/raw/11_7.pdf).  
 11/12/24 Chapter 13: Public Goods Raw Notes from 11/12 (Link: ../files/4998/raw/11_12.pdf).  
-11/14/24 Chapter 13: Public Goods Raw Notes from 11/14 (Link: ../files/4998/raw/11_14.pdf).  
-11/19/24 Chapter 13: Public Goods Raw Notes from 11/19 (Link: ../files/4998/raw/11_19.pdf).  
+11/14/24 Chapter 14: Public Goods Raw Notes from 11/14 (Link: ../files/4998/raw/11_14.pdf).  
+11/19/24 Chapter 14: Public Goods Raw Notes from 11/19 (Link: ../files/4998/raw/11_19.pdf).  
 
 ## Old Exams ##
 
