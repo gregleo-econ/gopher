@@ -11,6 +11,7 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.  
 Updates  
+11/19/2024- Added chapter 15. Added exercises for chapter 15. Added key topics for chapters 11-15.  
 11/19/2024- Added chapters 13,14. Moved exercises to separate section. Added solutions through chapter 11.  
 
 ## Description ##
@@ -40,6 +41,7 @@ Homework 1. (Due 9/12) Exercises from Chapters 1,2.
 Homework 2. (Due 10/8) Exercises from Chapters 3-6.  
 Homework 3. (Not Due) Exercises from Chapters 7-9.  
 Homework 4. (Due 11/12) Exercises from Chapters 10-11.  
+Homework 5. (Not Due) Exercises from Chapters 12-15.  
 
 ## Exams ##
 
