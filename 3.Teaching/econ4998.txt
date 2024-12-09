@@ -11,7 +11,7 @@ https://gregcleo.com/3.Teaching/econ4998.html
 
 The Class Notes (Link: ../files/4998/4998_Notes.pdf) are the official textbook for the course. I will update it throughout the semester.  
 Updates  
-12/3/2024 Added solutions for chapters 11-15.  
+12/8/2024 Fixed typo on solution 15.3!  
 
 ## Description ##
 
