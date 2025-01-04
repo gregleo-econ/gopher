@@ -1,15 +1,15 @@
 
-### Coarse Belief Elicitation ###
+### Ternary Belief Elicitation (New!) ###
 
 ## Abstract ##
 
-Researchers commonly elicit a precise belief about the probability of an event. But often, precision is not required, and it is sufficient to determine which of some set of probabilities is closest to a participant's belief. We show that, among the many suitable scoring rules for eliciting a precise belief, only quadratic rules are suitable for eliciting coarsely. However, scoring rules are not the only way to elicit a belief. We propose two types of simple menu procedures as an alternative to using a quadratic scoring rule to elicit coarsely. These procedures are simple, flexible, and incentive compatible under assumptions nearly universal to experimental economics. 
+There is an apparent trade-off in belief elicitation methodologies used in experimental economics. Of the two main mechanisms, binarized scoring rules have stronger incentives, but probability price lists require weaker preference assumptions. We resolve this trade-off by introducing a new methodology, the ternary price list. The ternary price list has incentives as strong as those of even the best binarized scoring rules but with the weaker incentive-compatibility requirements of price lists. Furthermore, in the limit, the uniform ternary price list's incentives are identical to those of the binarized quadratic scoring rule. 
 
 ## Citation  ##
 
-Healy, P.J. and Leo, Greg, Coarse Belief Eclicitation
+Healy, P.J. and Leo, Greg, Ternary Belief Elicitation
 
 ## Paper ##
 
- Coarse Belief Elicitation (Link: ../files/Papers/WP_Coarse_Belief_Elicitation.pdf)
+ Ternary Belief Elicitation (Link: ../files/Papers/WP_Ternary_Belief_Elicitation.pdf)
 
