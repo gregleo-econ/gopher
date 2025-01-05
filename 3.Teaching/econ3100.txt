@@ -1,0 +1,41 @@
+
+### LMU Intermediate Micro - 3100 ###
+
+This is the course website for LMU Economics 3100. This page will be continuously updated throughout the semester. Please check it regularly.   
+
+3100 focuses on the formal* analysis of the *behavior of individuals and firms and how they interact.   
+
+Some concepts and formulas from differential calculus will be used. I emphasize intuition and deep understand over the mechanical process of solving problems.  
+
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 40% on the midterm exam, 40% on the final exam, and 20% on homework.  
+
+Class meets TBA.  
+
+Greg's office hours: Monday TBA or by Appointment in TBA.  
+
+## Textbook ##
+
+ Course Notes (Link: ../files/3010/3012_Notes.pdf)  (Updated 12/01 with Equilibrium Graphs)  
+
+## Problem Sets ##
+
+TBA
+
+## Schedule ##
+
+### Week 1 : Overview of Syllabus & Budget Constraint.   # ###
+### Week 2 : Budget Constraint, Preferences.   # ###
+### Week 3 : Preferences, Utility.   # ###
+### Week 4 : Choice.   # ###
+### Week 5 : Demand, Slutsky Decomposition.   # ###
+### Week 6 : Slutsky Decomposition, Buying/Selling, Intertemporal Choice.   # ###
+### Week 7 : Market Demand, Equilibrium.   # ###
+### Week 8 : Equilibrium.   # ###
+### Week 9 : Technology.   # ###
+### Week 10 : Cost Minimization/Profit Maximization.   # ###
+### Week 11 : Monopoly,Monopoly Behavior.   # ###
+### Week 12 : Oligopoly.   # ###
+### Week 13 : Externalities.   # ###
+### Week 14 : Review.   # ###
+
+
