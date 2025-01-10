@@ -15,7 +15,7 @@ Greg's office hours: Monday TBA or by Appointment in TBA.
 
 ## Textbook ##
 
- Course Notes (Link: ../files/3010/3012_Notes.pdf)  (Updated 12/01 with Equilibrium Graphs)  
+ Course Notes (Link: ../files/3100/3100_Notes.pdf)  (Updated 1/10/2025)  
 
 ## Problem Sets ##
 
@@ -23,8 +23,8 @@ TBA
 
 ## Schedule ##
 
-### Week 1 : Overview of Syllabus & Budget Constraint.   # ###
-### Week 2 : Budget Constraint, Preferences.   # ###
+### Week 1 : Overview of Syllabus, Bundles & Budget.   # ###
+### Week 2 : Bundles & Budget, Binary Relations.     # ###
 ### Week 3 : Preferences, Utility.   # ###
 ### Week 4 : Choice.   # ###
 ### Week 5 : Demand, Slutsky Decomposition.   # ###
