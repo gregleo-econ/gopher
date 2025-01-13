@@ -23,7 +23,7 @@ TBA
 
 ## Schedule ##
 
-### Week 1 : Overview of Syllabus, Bundles & Budget.   # ###
+### Week 1 : Overview of Syllabus, Appendix A (Calculus)    # ###
 ### Week 2 : Bundles & Budget, Binary Relations.     # ###
 ### Week 3 : Preferences, Utility.   # ###
 ### Week 4 : Choice.   # ###
