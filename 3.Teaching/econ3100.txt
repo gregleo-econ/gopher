@@ -5,15 +5,32 @@ This is the course website for LMU Economics 3100. This page will be continuousl
 
 3100 focuses on the formal* analysis of the *behavior of individuals and firms and how they interact.   
 
-Some concepts and formulas from differential calculus will be used. I emphasize intuition and deep understand over the mechanical process of solving problems.  
+This page serves as the living syllabus for the course. It will be continuously updated throughout the semester. Please check it regularly. If you are not viewing this syllabus through my website, please visit:  
 
-There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 40% on the midterm exam, 40% on the final exam, and 20% on homework.  
+https://gregcleo.com/3.Teaching/econ3100.html 
 
-Class meets TBA.  
+There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 40% on the midterm exam, 40% on the final exam, and 20% on homework.    
 
 Greg's office hours: Monday TBA or by Appointment in TBA.  
 
+## Policies   ##
+
+The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply to this course. For policies regarding accommodations and disabilities, please see the DSS (Link: https://academics.lmu.edu/dss/) website.  
+
+## Times ##
+
+Class Meetings:  
+Section 02: Tuesday/Thursday 9:55-11:35 (UNH 2228)  
+Section 01: Monday/Wednesday 9:55-11:35 (Pereira 140)  
+
+Greg's office hours: Monday 8:55-9:55 or Thursday 11:35-12:35pm in University Hall 4225 or by Appointment.  
+
 ## Textbook ##
+
+The Course Notes below are the textbook for the course. I will update it throughout the semester.  
+Updates  
+1/10/2025 Added Appendix A (Calculus)  
+
 
  Course Notes (Link: ../files/3100/3100_Notes.pdf)  (Updated 1/10/2025)  
 
