@@ -11,8 +11,6 @@ https://gregcleo.com/3.Teaching/econ3100.html
 
 There will be one midterm and a final exam. They are tentatively placed in the schedule below. Grading will be based 40% on the midterm exam, 40% on the final exam, and 20% on homework.    
 
-Greg's office hours: Monday TBA or by Appointment in TBA.  
-
 ## Policies   ##
 
 The Academic Honesty (Link: https://academics.lmu.edu/honesty/) policies apply to this course. For policies regarding accommodations and disabilities, please see the DSS (Link: https://academics.lmu.edu/dss/) website.  
@@ -40,8 +38,9 @@ TBA
 ## Schedule ##
 
 ### Week 1 : Overview of Syllabus, Appendix A (Calculus)   # ###
+Raw Notes:  
  Raw Notes from 1/13 (Link: ../files/3100/raw/1_13_25.pdf)  
- Raw Notes from 8/29 (Link: ../files/3100/raw/1_14_25.pdf)   
+ Raw Notes from 1/14 (Link: ../files/3100/raw/1_14_25.pdf) 
 ### Week 2 : Bundles & Budget, Binary Relations.     # ###
 ### Week 3 : Preferences, Utility.   # ###
 ### Week 4 : Choice.   # ###
