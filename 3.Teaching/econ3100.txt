@@ -37,23 +37,31 @@ TBA
 
 ## Schedule ##
 
-### Week 1 : Overview of Syllabus, Appendix A (Calculus)   # ###
+### Week 1 (1/13): Calculus (Appendix A), Bundles & Budget (Chapter 1) # ###
 Raw Notes:  
  Raw Notes from 1/13 (Link: ../files/3100/raw/1_13_25.pdf)  
  Raw Notes from 1/14 (Link: ../files/3100/raw/1_14_25.pdf)  
  Raw Notes from 1/15 (Link: ../files/3100/raw/1_15_25.pdf)  
-### Week 2 : Bundles & Budget, Binary Relations.     # ###
-### Week 3 : Preferences, Utility.   # ###
-### Week 4 : Choice.   # ###
-### Week 5 : Demand, Slutsky Decomposition.   # ###
-### Week 6 : Slutsky Decomposition, Buying/Selling, Intertemporal Choice.   # ###
-### Week 7 : Market Demand, Equilibrium.   # ###
-### Week 8 : Equilibrium.   # ###
-### Week 9 : Technology.   # ###
-### Week 10 : Cost Minimization/Profit Maximization.   # ###
-### Week 11 : Monopoly,Monopoly Behavior.   # ###
-### Week 12 : Oligopoly.   # ###
-### Week 13 : Externalities.   # ###
-### Week 14 : Review.   # ###
+### MLK Holiday (No Class 1/20,1/21) # ###
+### Week 2 (1/20): Bundles & Budget (Chapter 1), Binary Relations (Chapter 2) # ###
+### Week 3 (1/27): Binary Relations (Chapter 2), Preferences (Chapter 3) # ###
+### Week 4 (2/3): Utility (Chapter 4), Choice (Chapter 5) # ###
+### Week 5 (2/10): Choice (Chapter 5), Demand (Chapter 6) # ###
+### Week 6 (2/17): Slutsky Decomposition (Chapter 7), Buying/Selling (Chapter 8) # ###
+### Week 7 (2/24): Intertemporal Choice (Chapter 9).  Market Demand (Chapter 10) # ###
+### Week 8 (3/3): Spring Break Week # ###
+### Week 9 (3/10): Review & Midterm # ###
+### Midterm (3/12 & 3/13) Covers Chapters 1-10 # ###
+### Week 10 (3/17): Equilibrium (Chapter 11) # ###
+### Week 10 (3/24): Technology and Production (Chapter 12) # ###
+### Cesar Chavez Day (No Class 3/31,4/1) # ###
+### Week 10 (3/31): Cost Minimization/Profit Maximization (Chapter 13) # ###
+### Week 11 (4/7): Monopoly (Chapter 14), Monopoly Behavior (Chapter 15) # ###
+### Week 12 (4/14): Oligopoly (Chapter 16) # ###
+### Easter (No Class 4/16,4/17) # ###
+### Week 13 (4/21): Externalities (Chapter 17) # ###
+### Week 14 (4/28): Spill-over Week  # ###
+### Week 15 (5/4): Review # ###
+
 
 
