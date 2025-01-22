@@ -45,6 +45,7 @@ Problem Set 7. Exercises from Chapters 16-17. Due: TBA
 Raw Notes: 1/13 (Link: ../files/3100/raw/1_13_25.pdf), 1/14 (Link: ../files/3100/raw/1_14_25.pdf), 1/15 (Link: ../files/3100/raw/1_15_25.pdf), 1/16 (Link: ../files/3100/raw/1_16_25.pdf)
 ### MLK Holiday (No Class 1/20) # ###
 ### Week 2 (1/20): Bundles & Budget (Chapter 1), Binary Relations (Chapter 2) # ###
+Raw Notes: 1/22 (Link: ../files/3100/raw/1_22_25.pdf)
 ### Week 3 (1/27): Binary Relations (Chapter 2), Preferences (Chapter 3) # ###
 ### Week 4 (2/3): Utility (Chapter 4), Choice (Chapter 5) # ###
 ### Week 5 (2/10): Choice (Chapter 5), Demand (Chapter 6) # ###
