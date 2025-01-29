@@ -47,7 +47,7 @@ Raw Notes: 1/13 (Link: ../files/3100/raw/1_13_25.pdf), 1/14 (Link: ../files/3100
 ### Week 2 (1/20): Bundles & Budget (Chapter 1), Binary Relations (Chapter 2) # ###
 Raw Notes: 1/22 (Link: ../files/3100/raw/1_22_25.pdf), 1/23 (Link: ../files/3100/raw/1_23_25.pdf)
 ### Week 3 (1/27): Binary Relations (Chapter 2), Preferences (Chapter 3) # ###
-Raw Notes: 1/27 (Link: ../files/3100/raw/1_27_25.pdf), 1/28 (Link: ../files/3100/raw/1_28_25.pdf)
+Raw Notes: 1/27 (Link: ../files/3100/raw/1_27_25.pdf), 1/28 (Link: ../files/3100/raw/1_28_25.pdf) 1/29 (Link: ../files/3100/raw/1_29_25.pdf)
 ### Week 4 (2/3): Utility (Chapter 4), Choice (Chapter 5) # ###
 ### Week 5 (2/10): Choice (Chapter 5), Demand (Chapter 6) # ###
 ### Week 6 (2/17): Slutsky Decomposition (Chapter 7), Buying/Selling (Chapter 8) # ###
