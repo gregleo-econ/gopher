@@ -52,7 +52,7 @@ Raw Notes: 1/27 (Link: ../files/3100/raw/1_27_25.pdf), 1/28 (Link: ../files/3100
 Raw Notes: 2/3 (Link: ../files/3100/raw/2_3_25.pdf), 2/4 (Link: ../files/3100/raw/2_4_25.pdf) 2/5 (Link: ../files/3100/raw/2_5_25.pdf) 2/6 (Link: ../files/3100/raw/2_6_25.pdf)
 ### Week 5 (2/10): Constrained Optimization (Chapter 6), Demand (Chapter 7) # ###
 Raw Notes: 2/10 (Link: ../files/3100/raw/2_10_25.pdf), 2/11 (Link: ../files/3100/raw/2_11_25.pdf) 2/12 (Link: ../files/3100/raw/2_12_25.pdf) 2/13 (Link: ../files/3100/raw/2_13_25.pdf)
-### Week 6 (2/17): Slutsky Decomposition (Chapter 8), Buying/Selling (Chapter 9) # ###
+### Week 6 (2/17): Demand (Chapter 7), Slutsky Decomposition (Chapter 8), Buying/Selling (Chapter 9) # ###
 ### Week 7 (2/24): Intertemporal Choice (Chapter 10).  Market Demand (Chapter 11) # ###
 ### Week 8 (3/3): Spring Break Week # ###
 ### Week 9 (3/10): Review & Midterm # ###
