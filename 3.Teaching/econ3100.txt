@@ -21,9 +21,10 @@ Greg's office hours: Monday 8:55-9:55 or Thursday 11:35-12:35pm in University Ha
 
 ## Textbook ##
 
- Course Notes (Link: ../files/3100/3100_Notes.pdf)  (Updated 2/20/2025)  
+ Course Notes (Link: ../files/3100/3100_Notes.pdf)  (Updated 2/25/2025)  
 
 Updates  
+2/25/2025 Fixed typo on exercise 7.9.  
 2/20/2025 Chapters 8-10 Added.  
 2/12/2025 Solutions added for Problem Set 1. Chapters 6,7 Added. Copy editing on chapters 1-5.
 
@@ -58,6 +59,7 @@ Raw Notes: 2/10 (Link: ../files/3100/raw/2_10_25.pdf), 2/11 (Link: ../files/3100
 ### Week 6 (2/17): Demand (Chapter 7), Slutsky Decomposition (Chapter 8), Buying/Selling (Chapter 9). # ###
 Raw Notes: 2/17 (Link: ../files/3100/raw/2_17_25.pdf), 2/18 (Link: ../files/3100/raw/2_18_25.pdf) 2/19 (Link: ../files/3100/raw/2_19_25.pdf) 2/20 (Link: ../files/3100/raw/2_20_25.pdf)
 ### Week 7 (2/24): Intertemporal Choice (Chapter 10).  Market Demand (Chapter 11) # ###
+Raw Notes: 2/24 (Link: ../files/3100/raw/2_24_25.pdf), 2/25 (Link: ../files/3100/raw/2_25_25.pdf) 2/26 (Link: ../files/3100/raw/2_26_25.pdf) 2/27 (Link: ../files/3100/raw/2_27_25.pdf)
 ### Week 8 (3/3): Spring Break Week # ###
 ### Week 9 (3/10): Review & Midterm # ###
 ### Midterm (3/12 & 3/13) Covers Chapters 1-11 # ###
