@@ -37,7 +37,7 @@ There will be a problem set due roughly every two weeks. You can turn in your pr
 Problem Set 1. Exercises from Chapters 1-3. Due: 2/6  
 Problem Set 2. Exercises from Chapters 4-5. Due: 2/20  
 Problem Set 3. Exercises from Chapters 6-7. Due: 2/28  
-Problem Set 4. Exercises from Chapters 8-10. Due: TBA  
+Problem Set 4. Exercises from Chapters 8-10. Not Due  
 Problem Set 5. Exercises from Chapters 11-12. Due: TBA  
 Problem Set 6. Exercises from Chapters 13-15. Due: TBA  
 Problem Set 7. Exercises from Chapters 16-17. Due: TBA  
@@ -56,14 +56,14 @@ Raw Notes: 1/27 (Link: ../files/3100/raw/1_27_25.pdf), 1/28 (Link: ../files/3100
 Raw Notes: 2/3 (Link: ../files/3100/raw/2_3_25.pdf), 2/4 (Link: ../files/3100/raw/2_4_25.pdf) 2/5 (Link: ../files/3100/raw/2_5_25.pdf) 2/6 (Link: ../files/3100/raw/2_6_25.pdf)
 ### Week 5 (2/10): Constrained Optimization (Chapter 6), Demand (Chapter 7) # ###
 Raw Notes: 2/10 (Link: ../files/3100/raw/2_10_25.pdf), 2/11 (Link: ../files/3100/raw/2_11_25.pdf) 2/12 (Link: ../files/3100/raw/2_12_25.pdf) 2/13 (Link: ../files/3100/raw/2_13_25.pdf)
-### Week 6 (2/17): Demand (Chapter 7), Slutsky Decomposition (Chapter 8), Buying/Selling (Chapter 9). # ###
+### Week 6 (2/17): Demand (Chapter 7), Slutsky Decomposition (Chapter 8). # ###
 Raw Notes: 2/17 (Link: ../files/3100/raw/2_17_25.pdf), 2/18 (Link: ../files/3100/raw/2_18_25.pdf) 2/19 (Link: ../files/3100/raw/2_19_25.pdf) 2/20 (Link: ../files/3100/raw/2_20_25.pdf)
-### Week 7 (2/24): Intertemporal Choice (Chapter 10).  Market Demand (Chapter 11) # ###
+### Week 7 (2/24): Buying/Selling (Chapter 9), Intertemporal Choice (Chapter 10).   # ###
 Raw Notes: 2/24 (Link: ../files/3100/raw/2_24_25.pdf), 2/25 (Link: ../files/3100/raw/2_25_25.pdf) 2/26 (Link: ../files/3100/raw/2_26_25.pdf) 2/27 (Link: ../files/3100/raw/2_27_25.pdf)
 ### Week 8 (3/3): Spring Break Week # ###
 ### Week 9 (3/10): Review & Midterm # ###
-### Midterm (3/12 & 3/13) Covers Chapters 1-11 # ###
-### Week 10 (3/17): Equilibrium (Chapter 12) # ###
+### Midterm (3/12 & 3/13) Covers Chapters 1-10 # ###
+### Week 10 (3/17): Market Demand (Chapter 11), Equilibrium (Chapter 12) # ###
 ### Week 10 (3/24): Technology and Production (Chapter 13) # ###
 ### Cesar Chavez Day (No Class 3/31) # ###
 ### Week 10 (3/31): Cost Minimization/Profit Maximization (Chapter 14) # ###
