@@ -1,5 +1,5 @@
 
-### Belief Elicitation: a User's Guide (Handbook of Experimental Methodology Chapter) ###
+### Belief Elicitation: a User's Guide (Chapter 8: The Handbook of Experimental Methodology) Updated! ###
 
 ## Abstract ##
 
@@ -7,7 +7,7 @@ This chapter serves as a comprehensive guide on incentivized belief elicitation,
 
 ## Citation  ##
 
-Healy, Paul J. and Greg Leo (2024). "Belief elicitation: A user's guide". To appear in the Handbook of Experimental Methodology, ed. L. Yariv and E. Snowberg.
+Healy, Paul J. and Greg Leo (2025). "Belief elicitation: A User's Guide". To appear in the Handbook of Experimental Methodology, ed. L. Yariv and E. Snowberg.
 
 ## Preprint ##
 
